@@ -1,0 +1,12 @@
+title: jfeiwell
+email: jfeiwell10@gmail.com
+description: Jeff's Website
+url: "https://jfeiwell.com"
+twitter: jfeiwell
+
+baseurl: ""
+permalink: /:categories/:title:output_ext
+markdown: kramdown
+plugins:
+  - jekyll-feed
+timezone: America/New_York
