@@ -27,7 +27,7 @@ url: "http://jfeiwell.com" # the base hostname & protocol for your site, e.g. ht
 twitter_username: jfeiwell
 
 # Build settings
-theme: 
+theme: minima
 plugins:
   - jekyll-feed
 
