@@ -1,25 +1,42 @@
 ---
 layout: default
 ---
+<style type="text/css">
+	body {
+		margin:60px 10px 10px 10px;
+	}
+</style>
 
+<div class="home">
 <header>
-  <h1>{{ site.title | escape }}</h1>
+  <h1 class="home-title">{{ site.myname | escape }}</h1>
 </header>
 
 <main>
 
 {{ content }}
 
+{% for folder in site.Folders %}
+  <h4>
+    <a href="{{ folder.url }}">
+      {{ folder.title }}
+    </a>
+  </h4>
+{% endfor %}
+
 <hr />
 
-  {%- if site.posts.size > 0 -%}
-    <h2>{{ page.list_title | default: "Posts" }}</h2>
-    <ul class="more-space">
-      {%- for post in site.posts limit:10 -%}
-      <li><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></li>
-      {%- endfor -%}
-    </ul>
-  {%- endif -%}
 
-<h1>teersdgsgsdfg</h1>
+<form
+  action="https://formspree.io/xzbjblow"
+  method="POST"
+>
+  <div class="myform">
+    <input type="email" name="email" placeholder="submit email">
+  	<button id="btn" type="submit">Send</button>
+  </div>
+</form>
+
+
 </main>
+</div>

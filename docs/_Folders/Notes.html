@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+<a class="home-btn" href="/">&#8672; Back</a>
+
+  {%- if site.posts.size > 0 -%}
+    <h2>Notes</h2>
+    <ul class="">
+      {% for post in site.categories.Notes %}
+      <li><a class="" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></li>
+      {%- endfor -%}
+    </ul>
+  {%- endif -%}

@@ -2,8 +2,10 @@
 layout: post
 title:  "Welcome to Jekyll!"
 date:   2020-05-04 11:41:39 -0400
-categories: jekyll update
+category: Notes
 ---
+
+<a class="home-btn" href="/Folders/Notes">&#8672; Back2</a>
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 Jekyll requires blog post files to be named according to the following format:
@@ -23,6 +25,14 @@ end
 print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
+
+{% highlight python %}
+def print_hi():
+  print("hi")
+
+#=> prints "Hi"
+{% endhighlight %}
+
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
