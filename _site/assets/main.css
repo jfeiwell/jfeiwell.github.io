@@ -148,14 +148,17 @@ input {
     float: left;
     box-sizing: border-box;
     padding-right: 80px;
-    padding-top:.25rem;
+    text-align: left;
+    vertical-align:bottom;
     padding-bottom:0px;
+    margin: auto;
     width: 100%;
     border-radius:6px;
     background-color:#eee;
     border: none;
     height:24px;
     font-family: Gordita, Helvetica Neue, Arial, sans-serif, -apple-system;
+    font-size: 11px;
 }
 
 #btn{
@@ -172,18 +175,22 @@ input {
     color:#eee;
     font-size:12px;
     font-weight:500;
-    vertical-align:middle;
-    padding-top:.25rem;
+    text-align: center;
+    margin: auto;
     padding-bottom:0px;
 }
 
 button {
   padding-bottom:0px;
+  text-align: center;
+  margin: auto;
+  padding: auto;
 }
 
 ::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
   color: #595959;
   padding-left:5px;
+  margin: auto;
   opacity: 1; /* Firefox */
 }
 
