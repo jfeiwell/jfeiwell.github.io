@@ -30,7 +30,7 @@ On the company side venture is a great idea for those covering high fixed costs 
 
 If the company doesn’t expect to exit within 10 years, raising venture puts downward pressure on the company to not only exit but exit at a price that’s (hopefully) many multiples of their prior valuation. This comes from the entire cap table, as employees who took less pay for more equity start getting itchy for liquidity.
 
-##The Heartland Fund
+## The Heartland Fund
 
 So what kind of fund could jumpstart growth in America’s Heartland? The Heartland fund (unless you have a better name!). A vehicle for supporting slower growing singles, doubles, and triples whose LPs are high net worth individuals, family offices, or any smaller entity with fitting target returns and investment horizons.
 
