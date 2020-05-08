@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-07T23:39:39-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">jfy</title><subtitle>Jeff Feiwell's personal website.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/notes/2020/05/04/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2020-05-04T11:41:39-04:00</published><updated>2020-05-04T11:41:39-04:00</updated><id>http://localhost:4000/notes/2020/05/04/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/notes/2020/05/04/welcome-to-jekyll.html">&lt;p&gt;&lt;a class=&quot;home-btn&quot; href=&quot;/Folders/Notes&quot;&gt;⇠ Back2&lt;/a&gt;
+You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR-MONTH-DAY-title.MARKUP&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Where &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MONTH&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MARKUP&lt;/code&gt; is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;und&quot; dir=&quot;ltr&quot;&gt;🌍🌏🌎&lt;/p&gt;&amp;mdash; jack (@jack) &lt;a href=&quot;https://twitter.com/jack/status/1252988480814104576?ref_src=twsrc%5Etfw&quot;&gt;April 22, 2020&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;():&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;hi&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &quot;Hi&quot;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="Notes" /><summary type="html">⇠ Back2 You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">A New Type of Fund that Could Fuel a Heartland Resurgence</title><link href="http://localhost:4000/essays/2019/04/04/a-new-type-of-fund.html" rel="alternate" type="text/html" title="A New Type of Fund that Could Fuel a Heartland Resurgence" /><published>2019-04-04T11:41:39-04:00</published><updated>2019-04-04T11:41:39-04:00</updated><id>http://localhost:4000/essays/2019/04/04/a-new-type-of-fund</id><content type="html" xml:base="http://localhost:4000/essays/2019/04/04/a-new-type-of-fund.html">&lt;p&gt;&lt;strong&gt;tl’dr:&lt;/strong&gt; A fund structured for launching singles, doubles, and triples, opposed to the home runs VCs need, can revitalize America’s Heartland towns by aligning the incentives of investors and small business entrepreneurs.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/cle_skyline.jpeg&quot; alt=&quot;Cle Skyline&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;subphoto&quot;&gt;Cleveland Skyline&lt;/p&gt;
+
+&lt;p&gt;One year ago The New York Times &lt;a href=&quot;https://www.nytimes.com/2018/03/04/technology/silicon-valley-midwest.html&quot;&gt;documented&lt;/a&gt; a dozen Bay Area VCs during a three day swing through the Rust Belt. It sparked a conversation about Silicon Valley’s ballooning cost and ever present anxiety that the industry is in a transitional phase. Waiting for the next wave of breakout darlings while its center of gravity moves from the evergreen streets of Palo Alto to the gentrified, steel-reinforced concrete San Francisco. Begging the question, is the Midwest venture’s place of expatriation?&lt;/p&gt;
+
+&lt;p&gt;Recently 60 minutes &lt;a href=&quot;https://www.cbsnews.com/news/venture-capitalist-steve-case-spreading-funding-to-middle-america-with-rise-of-the-rest-60-minutes/&quot;&gt;aired&lt;/a&gt; the broadcast follow up to the NYT piece. Following &lt;a href=&quot;https://www.revolution.com/entity/rotr/&quot;&gt;Rise of the Rest&lt;/a&gt;, a venture fund dedicated to funding seed stage companies outside of CA, NY, and MA. I share their passion for the cause. I’ve seen both sides of the coin, born and raised in Cleveland and eventually lived in SF while working for a venture backed company. Parts of the Rust Belt are having a moment, Pittsburgh is thriving and downtown Cleveland is booming. But most of the Rust Belt like, Youngstown or Toledo, is still is exactly that.&lt;/p&gt;
+
+&lt;p&gt;I would love nothing more than the success of venture backed companies in these communities to create new jobs, wealth, and opportunity, but applying a successful model to a different problem isn’t a recipe for success.&lt;/p&gt;
+
+&lt;h2 id=&quot;why-venture-isnt-the-solution&quot;&gt;Why Venture Isn’t the Solution&lt;/h2&gt;
+
+&lt;p&gt;Venture Capital works for startups, not small businesses — understanding the difference can help us structure a new type of fund that can fuel the creation of small businesses across the Heartland.&lt;/p&gt;
+
+&lt;p&gt;As Paul Graham &lt;a href=&quot;http://www.paulgraham.com/growth.html&quot;&gt;points out&lt;/a&gt;, startups are companies that grow rapidly, and “To grow rapidly, you need to make something you can sell to a big market. That’s the difference between Google and a barbershop. A barbershop doesn’t scale.”. The need to grow fast is dictated by a big market, a business that needs scale to work (like a marketplace), or the need to win your market before others do. VC is a game of finding these possible home runs.&lt;/p&gt;
+
+&lt;p&gt;The US grocery market is ~$620bn, a massive total addressable market (TAM). But where Instacart is truly attacking the entire market, a new regional grocery chain is realistically only going to be able to service a few hundred million max in its first decade of business. But that doesn’t mean it isn’t needed. That chain may be able to bring thousands of jobs to that region. These types of companies are worth investing in, just not from a VC fund.&lt;/p&gt;
+
+&lt;p&gt;Why not? It’s not a smart investment for venture funds and it’s not an optimal source of capital for businesses whose trajectory isn’t aligned with the cost (financially and operationally) associated with venture money.
+Venture funds last ~10 years and typically need to return capital over the last few years of its life. This is done by either distributing cash or stock. In order to have cash or liquid stock to hand over, the portfolio companies must have had an exit, a sale or IPO (It’s technically possible for funds to cash out shares in secondary markets but its’ inefficient). Our regional grocery chain or a new logistics company may win their region over 15 years, but that doesn’t help a venture fund.&lt;/p&gt;
+
+&lt;p&gt;On the company side venture is a great idea for those covering high fixed costs out of the gate, that will accumulate massive economies of scale. Where the marginal cost of serving the nth customer is small. And those using needing to &lt;a href=&quot;https://hbr.org/2016/04/blitzscaling&quot;&gt;blitzscale&lt;/a&gt;, as mentioned above.&lt;/p&gt;
+
+&lt;p&gt;If the company doesn’t expect to exit within 10 years, raising venture puts downward pressure on the company to not only exit but exit at a price that’s (hopefully) many multiples of their prior valuation. This comes from the entire cap table, as employees who took less pay for more equity start getting itchy for liquidity.&lt;/p&gt;
+
+&lt;p&gt;##The Heartland Fund&lt;/p&gt;
+
+&lt;p&gt;So what kind of fund could jumpstart growth in America’s Heartland? The Heartland fund (unless you have a better name!). A vehicle for supporting slower growing singles, doubles, and triples whose LPs are high net worth individuals, family offices, or any smaller entity with fitting target returns and investment horizons.&lt;/p&gt;
+
+&lt;p&gt;The aforementioned examples illustrate the type of company that would make a strong candidate for this type of capital but let’s dig a bit deeper. Whether a new CPG company, clothing line, plastics distributor, etc. these companies are those that need capital to start and will be at least cash flow positive quickly and profitable within a few years.&lt;/p&gt;
+
+&lt;p&gt;Those whom it would be imprudent to take on debt or are outside the risk profile of a bank. And they are looking to build businesses that will grow regionally (hopefully globally) over time but aren’t aiming to become the next Facebook. In 50 years they may become a Dick’s Sporting Goods or a Cintas, but just like those businesses, it will take more than 10 years.&lt;/p&gt;
+
+&lt;p&gt;Let’s get into the mechanics and circle back into why this model aligns incentives for all parties. &lt;a href=&quot;Indie.vc&quot;&gt;Indie.vc&lt;/a&gt; has done a terrific job of standardizing terms for these deals and I think they nailed it. They are the foremost authority on this nascent type of investing so I’ve summarized.&lt;/p&gt;
+
+&lt;p&gt;Deal Terms
+The money invested is essentially a convertible note specifically drawn from gross revenue with a specified return. In the case of a financing or liquidity event, the stake is converted to equity.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Purchase Price &amp;amp; Percentage&lt;/em&gt; — Take a fixed % of the company for a $ amount invested. I.e. $250k for 25%.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Conversion Trigger:&lt;/em&gt; A certain $ amount raised in a subsequent financing that will convert the fund’s stake to equity.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Redemption Start Date:&lt;/em&gt; The date in which the founders / company starts repurchasing equity. Indie.vc opts for 1–3 years from investing. This delay is a very founder friendly provision, straddling the line between a loan and venture.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Redemption Amount:&lt;/em&gt; The % drawn from gross revenues monthly to repurchase equity. Indie.vc normally opts for 3–7%. There’s no timetable and they all discretionary payments that exceed the monthly %. Payments stop after the ‘Max Redemption Payment’ is hit, which is essentially the specified return.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Specified Return:&lt;/em&gt; 3x invested capital. Payments of $10k / month would release our example company in less than 6 years.&lt;/p&gt;
+
+&lt;p&gt;This is a great deal for founders whose companies have good margins. You get a 1–3 year runway to grow your business without a cost line item (which should be baked into the plan anyway) and get to keep most of your equity in the long run. Plus the equity position they take is non-voting.&lt;/p&gt;
+
+&lt;p&gt;The catch, if this counts as one, is that the repurchase of equity is capped at 90%, so the fund will retain 10%. Not terrible if they are the only outside money you need.&lt;/p&gt;
+
+&lt;p&gt;Finally the downside protection for the fund. If a company is delinquent for two months in a row or 3/12, they reserve the right to clawback the repurchased equity by returning the payments or essentially jumping the preference stack and calling the entire redemption. Either way, the founders still keep their jobs. Founder friendly.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Read full terms &lt;a href=&quot;https://github.com/indievc/terms/blob/master/term_sheet_v3.md&quot;&gt;here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The only amendment, I would add (which is more a clarification) is that the fund would have no strings attached once converted to sell via a secondary sale.&lt;/p&gt;
+
+&lt;p&gt;The model aligns incentives for all parties. The founders ultimately retain most of their equity without the downsides associated with debt. Yes it comes with a price (the 3x redemption), but that’s the point. The fund gets the benefit of the defacto dividend with a locked in return, and keeps some skin in the game for the long run.&lt;/p&gt;
+
+&lt;h2 id=&quot;fund-mechanics&quot;&gt;Fund Mechanics&lt;/h2&gt;
+
+&lt;p&gt;The fund would act as a cross between an annuity and a venture fund. I believe this would need to be an evergreen fund, or at least 15+ years, where LPs would have specified windows for calling their capital.&lt;/p&gt;
+
+&lt;p&gt;The fund would pay LPs what is essentially a dividend from a % of the redemption payments. LPs would have the option to reinvest these back into the fund. The terms on the % would need to be specified, i.e. — % quarterly redemptions.
+On an annual or deal basis, the firm would pay out a certain amount of gains from exits as there is still a smaller equity component.&lt;/p&gt;
+
+&lt;p&gt;The details of how the fund works should be flushed out by professional fund managers (I am not one), I’m not sure how Indie.vc does it, looks like a traditional venture structure. But paying a dividend plus lump sums from any exit upside tracks with the investment profile of individuals and smaller investors, opposed to institutions.&lt;/p&gt;
+
+&lt;p&gt;The hit rate for the fund also tracks with the single, double, triple mantra. If a fund has $10mm under management and makes 40 $250k investments, it would need ~17 of those companies to return the 3x redemption in order to match T-bills after the 2&amp;amp;20. That’s about a ~41% hit rate, before any exit gains.&lt;/p&gt;
+
+&lt;p&gt;The math here is very simplified and back of the napkin but it’s clear the paradigm of a few basis points worth of portfolio companies accounting for the lion’s share of a venture fund’s return isn’t needed. These companies are less risky and with less short term upside, but easier to launch and grow. The best managers will help their companies grow and deliver much larger returns. I can easily see an agency concept flourishing.&lt;/p&gt;
+
+&lt;h2 id=&quot;tax-treatment&quot;&gt;Tax Treatment&lt;/h2&gt;
+
+&lt;p&gt;Obviously I’m biased here but if this proves an effective vehicle for job and wealth creation in the intended places, I believe it should be treated favorably against competing asset classes from a tax perspective.&lt;/p&gt;
+
+&lt;p&gt;With the creation of opportunity zones in the 2017 tax bill came opportunity funds. It’s a good starting point and way to frame the argument. Heartland funds would act as borderless compliment to the opportunity funds and zones.&lt;/p&gt;
+
+&lt;p&gt;With the former, investors are able to defer their investment tax bill if they port over long term cap gains to these funds and the longer they stay invested the lower their tax liability is for the fund’s upside. If they stay for 10 years there is no tax liability on the gain. It’s a decent approach to investing in disadvantaged areas but the rules are too cumbersome and really only make sense for real estate and brick and mortar businesses.&lt;/p&gt;
+
+&lt;p&gt;The portfolio companies must generate 50% of their business from the zone. Some zones are only a neighborhood. Furthermore the law dictates the capital must come from capital gains in another asset in order for investors to reap the tax windfall. Taking money off the sidelines is great, but let’s open the floodgates to stimulate these zones and allow all sources of capital.&lt;/p&gt;
+
+&lt;p&gt;I’m not sure taxing the cap gains at 0% for these funds would make sense or hold politically, but dividends? That’s where we can make it worthwhile.&lt;/p&gt;
+
+&lt;p&gt;Qualified dividends are those where the investor holds a stock for 60–90 days and is taxed at the long term cap gains rate plus the net investment income tax, opposed to normal income. I would suggest three changes here for an investor in the Heartland fund.&lt;/p&gt;
+
+&lt;p&gt;Eliminate or significantly reduce the dividend tax, possibly by creating a super qualified class whereby investors hold the equity for more than 3 years (the last starting point of redemption), label the redemption of the equity options as a special type of dividend, and count as a pass through to the LPs.&lt;/p&gt;
+
+&lt;p&gt;I would also advocate for exempting the fund’s long term cap gains and dividend income from Net Investment Income tax, which is 3.8% on dividends and cap gains among others, and exempt reinvested capital into the fund from taxation.&lt;/p&gt;
+
+&lt;p&gt;The fund would need to meet certain criteria to be eligible. Such as the deal structure, investing in specific areas (such as outside of a top 10 metro), and relationship with LPs. I’ll leave it to the suits to flush that piece out.&lt;/p&gt;
+
+&lt;h2 id=&quot;in-closing&quot;&gt;In Closing&lt;/h2&gt;
+
+&lt;p&gt;There are certainly intricacies on the fund mechanics and taxation sides that I am not an expert at, I’d love to have those who are contribute to improve this plan so we can in fact create more jobs in the Heartland.&lt;/p&gt;
+
+&lt;p&gt;This is all not to say that Heartland companies can’t become something massive or benefit from venture. Or that Rise of the Rest won’t fund big winners. Part of the problem in attracting venture in the Heartland is that it’s simply easier to filter out opportunities that statistically have a lower chance of a 100x return and are farther from home for VCs on the coasts. The Bay Area ecosystem still has the best odds. But there are always exceptions.&lt;/p&gt;
+
+&lt;p&gt;Drive Capital, home to two ex-Sequoia, is balling out in Columbus. They already have and will fund the next billion dollar companies in the Midwest. After writing all of this, I’m still a believer you can build billion dollar companies anywhere — look at ESPN.&lt;/p&gt;
+
+&lt;p&gt;This is about empowering the next generation of small business entrepreneurs and opening up their access to capital. It’s about enabling investors to help those founders grow their businesses in a strategic way. It’s about helping create jobs, wealth, and opportunity outside of San Francisco and New York City.&lt;/p&gt;
+
+&lt;p&gt;Drive Capital will hit the grand slams in the Midwest, who will fund the base runners? There are 243,118 households in Ohio with at least $1mm+ in assets. Let’s give them a place to invest their money and help their communities at the same time.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Note: I use ‘Rust Belt’, ‘Midwest, and ‘Heartland’ interchangeably&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/share?ref_src=twsrc%5Etfw&quot; class=&quot;twitter-share-button&quot; data-show-count=&quot;false&quot;&gt;Tweet&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;</content><author><name></name></author><category term="Essays" /><summary type="html">tl’dr: A fund structured for launching singles, doubles, and triples, opposed to the home runs VCs need, can revitalize America’s Heartland towns by aligning the incentives of investors and small business entrepreneurs.</summary></entry></feed>
