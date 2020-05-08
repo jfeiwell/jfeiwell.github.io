@@ -148,8 +148,8 @@ input {
     float: left;
     box-sizing: border-box;
     padding-right: 80px;
-      padding-top:4px;
-  padding-bottom: 0px;
+    padding-top:3px;
+    padding-bottom:0px;
     width: 100%;
     border-radius:6px;
     background-color:#eee;
