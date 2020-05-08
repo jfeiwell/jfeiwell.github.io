@@ -19,6 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: jfy
+myname: Jeff Feiwell
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Jeff Feiwell's personal website.
@@ -27,10 +28,23 @@ url: "http://jfeiwell.com" # the base hostname & protocol for your site, e.g. ht
 twitter_username: jfeiwell
 #github_username:  jekyll
 
+#permalink: /:categories/:year/:month/:day/:title:output_ext
+
 # Build settings
 theme: 
 plugins:
   - jekyll-feed
+
+#permalink: /:categories/:title/
+
+collections:
+  Folders:
+    output: true
+    order:
+      - Essays.html
+      - Notes.html
+      - Tweets.html
+      
 
 # Exclude from processing.
 # The following items will not be processed, by default.
