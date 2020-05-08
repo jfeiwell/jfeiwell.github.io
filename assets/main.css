@@ -160,6 +160,7 @@ input {
     height:24px;
     font-family: Gordita, Helvetica Neue, Arial, sans-serif, -apple-system;
     font-size: 10px;
+    display: inline-block;
 }
 
 #btn{
