@@ -148,7 +148,7 @@ input {
     float: left;
     box-sizing: border-box;
     padding-right: 80px;
-    padding-top:3px;
+    padding-top:.25rem;
     padding-bottom:0px;
     width: 100%;
     border-radius:6px;
@@ -173,12 +173,12 @@ input {
     font-size:12px;
     font-weight:500;
     vertical-align:middle;
-    padding-top:4px;
+    padding-top:.25rem;
     padding-bottom:0px;
 }
 
 button {
-  padding-bottom:-1px;
+  padding-bottom:0px;
 }
 
 ::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
