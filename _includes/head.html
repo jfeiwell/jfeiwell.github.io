@@ -33,9 +33,28 @@
 {% else %}
   <meta property="og:image" content="/assets/logo.png" >
 {% endif %}
-  <meta name="twitter:card" content="summary_large_image" />
+{% if page.image %}
+  <!-- I did! Select the "large image" card type, and supply the image path -->
+  <meta name="twitter:card"  content="summary_large_image">
+  <meta name="twitter:image" content="{{ site.url }}{{ page.image }}">
+{% else %}
+<!-- Nope! Select the "summary" card type, supplying the site's title image -->
+  <meta name="twitter:card"  content="summary">
+  <meta name="twitter:image" content="{{ site.title_image }}">
+{% endif %}
   <meta name="twitter:site" content="@{{ site.twitter }}" />
   <meta name="twitter:creator" content="@{{ site.twitter }}" />
+
+
+  <!--This meta tag is the page you are sharing with Twitter:-->
+  <meta name=”twitter:url” content="{{ post.url }}">
+  <!--You will also need to select a compelling title that is share-worthy for your Twitter card using this tag:-->
+  <meta name=”twitter:title” content="{{ post.title }}">
+  <!--You then want to create a description that is under 200 characters:-->
+  <meta name=”twitter:description” content="{{ post.description }}">
+  <!--Lastly, and most importantly, you will add your image:-->
+  <meta name=”twitter:image” content=”/assets/cle_skyline.jpeg”>
+
 
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }} RSS feed" href="{{ site.url }}/feed.xml" />
