@@ -2,7 +2,7 @@
 layout: post
 title:  "A New Type of Fund that Could Fuel a Heartland Resurgence"
 date:   2019-04-04 11:41:39 -0400
-image: /assets/cle_skyline.jpeg
+image: /assets/narrative_monopoly.png
 category: Essays
 ---
 
