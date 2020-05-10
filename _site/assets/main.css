@@ -40,7 +40,8 @@ header {
 
 img {
   max-width: 100%;
-  margin-bottom:0px;
+  margin-bottom:7px;
+  margin-top: 7px;
 }
 
 .subphoto {
@@ -67,6 +68,7 @@ h1 {
   font-size: 1.5em;
   padding-top: 20px;
   padding-bottom:6px;
+  margin-bottom: 8px;
 }
 
 h2, h3 {
@@ -78,6 +80,10 @@ h2, h3 {
 h3 {
   font-size: 1.1em; 
   text-transform: none;
+  font-weight:400;
+  font-style:italic;
+  margin-top:7px;
+  margin-bottom:-4px;
 }
 
 h4 {
@@ -206,3 +212,72 @@ button {
   color: #333;
   padding-left:5px;
 }
+
+
+
+/**Quote formatting**/
+ 
+pre,
+code {
+  font-family: $code-font-family;
+  font-size: 0.9375em;
+  border: 1px solid $border-color-01;
+  border-radius: 3px;
+  background-color: $code-background-color;
+}
+
+code {
+  padding: 1px 5px;
+}
+
+pre {
+  padding: 8px 12px;
+  overflow-x: auto;
+
+  > code {
+    border: 0;
+    padding-right: 0;
+    padding-left: 0;
+  }
+}
+
+.highlight {
+  border-left: 10px solid #19DC8D;
+  border-radius: 10px;
+  margin:auto;
+  margin-bottom:18px;
+  max-width: 75%;
+  vertical-align: middle;
+  background:  #f2f2f2;
+  padding:12px 30px 12px 35px;
+  font-family:lato, Helvetica Neue;
+  font-size:1em;
+  line-height:1.5em;
+}
+
+#Q {
+  color: #2f175c;
+  margin-left:-25px;
+  margin-bottom:-10px;
+  font-family: Lato, sans-serif;
+  font-size:2.2em;
+  padding-bottom: 0px;
+  padding-left: 7px;
+}
+
+#QE {
+  color: #2f175c;
+  font-family: Lato, sans-serif;
+  font-size:1.5em;
+  padding-bottom: 0px;
+  padding-left: 7px;
+}
+
+.twitter-tweet{
+  display:block;
+  margin-left: auto;
+  margin-right:4rem;
+  padding-top:8px;
+  padding-bottom:12px;
+}
+

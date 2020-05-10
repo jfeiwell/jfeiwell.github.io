@@ -3,6 +3,9 @@ layout: default
 ---
 <a class="home-btn" href="/">&#8672; Home</a>
 <h1>{{ page.title | escape }}</h1>
+{% if page.subtitle %}
+<h3 style="font-style:italic; font-weight:500; padding-bottom:6px; padding-top:0px; margin-top:0px;">{{ page.subtitle | escape }}</h3>
+{% endif %}
 {{ content }}
 <p style="font-size:12px; font-style: italic; color:#5e5e5e;">First published on {{ page.date | date: "%B %-d, %Y" }}</p>
 
