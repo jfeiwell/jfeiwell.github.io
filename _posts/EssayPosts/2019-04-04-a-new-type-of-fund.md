@@ -4,6 +4,17 @@ title:  "A New Type of Fund that Could Fuel a Heartland Resurgence"
 date:   2019-04-04 11:41:39 -0400
 category: Essays
 ---
+<head>
+	<!--This meta tag is the page you are sharing with Twitter:-->
+	<meta name=”twitter:url” content=”https://jfeiwell.com/essays/2019/04/04/a-new-type-of-fund.html”>
+	<!--You will also need to select a compelling title that is share-worthy for your Twitter card using this tag:-->
+	<meta name=”twitter:title” content="A New Type of Fund that Could Fuel a Heartland Resurgence">
+	<!--You then want to create a description that is under 200 characters:-->
+	<meta name=”twitter:description” content="">
+	<!--Lastly, and most importantly, you will add your image:-->
+	<meta name=”twitter:image” content=”/assets/cle_skyline.jpeg”>
+</head>
+
 **tl’dr:** A fund structured for launching singles, doubles, and triples, opposed to the home runs VCs need, can revitalize America’s Heartland towns by aligning the incentives of investors and small business entrepreneurs.
 
 ![Cle Skyline](/assets/cle_skyline.jpeg)
