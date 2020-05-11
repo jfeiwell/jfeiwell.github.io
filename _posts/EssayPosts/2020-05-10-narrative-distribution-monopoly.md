@@ -324,7 +324,7 @@ Things will ‘go back to normal’, but not the normal you’re thinking about.
 
 We’re starting to see, and will continue to see, the proliferation of D2C political and business outlets. Ted Cruz, Dan Crenshaw, and Joe Biden all have their own podcasts. On Podbay’s charts, Crenshaw’s podcast is 5th in news. Ahead of MSNBC, CNN, WSJ, BBC, WaPo, and all NPR podcasts sans one. Bernie had his own Substack newsletter. 
 
-True to Postman’s warning in Amusing Ourselves to Death, the politicians who are ascending the fastest and accumulating the most electoral (orthogonally related to institutional) power are the ones with the most media exposure. Once political actors fully embrace the fact they can reach audiences larger than what legacy outlets can offer, and do so without a filter, we will see an explosion of politician, party, and special interest owned media. 
+True to Postman’s warning in Amusing Ourselves to Death, the politicians who are ascending the fastest and accumulating the most electoral (tangentially related to institutional) power are the ones with the most media exposure. Once political actors fully embrace the fact they can reach audiences larger than what legacy outlets can offer, and do so without a filter, we will see an explosion of politician, party, and special interest owned media. 
 
 I would not be surprised if AOC and the remnants of the Bernie coalition have their own Post-Cable-Network (PCN) (what Cheddar is), by 2022. 
 
