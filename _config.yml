@@ -43,6 +43,7 @@ collections:
       - Essays.html
       - Notes.html
       - Tweets.html
+      - PDFs.html
       
 
 # Exclude from processing.

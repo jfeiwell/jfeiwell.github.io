@@ -281,3 +281,9 @@ pre {
   padding-bottom:12px;
 }
 
+.pdf-source {
+  font-style:italic;
+  font-size:.8em;
+  margin-bottom:0px; 
+}
+

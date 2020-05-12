@@ -1,0 +1,79 @@
+---
+layout: default
+title: "PDFs"
+---
+
+<a class="home-btn" href="/">&#8672; Home</a>
+
+  
+  {%- if site.posts.size > 0 -%}
+    <h2>&#x1f5c2; Business & Investing</h2>
+    <ul class="">
+      {% for post in site.categories.PDFs %}
+      {% if post.tags contains 'Business' %}
+      <li><a class="" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></li>
+        {% if post.subtitle %}
+        <ul style="list-style-type: none; margin-top:-10px;font-style:italic;font-size:14px;padding-left:1em;">
+			<li>{{ post.subtitle | escape }}</li>
+		</ul>
+		{% endif %}
+        {%- endif -%}
+      {%- endfor -%}
+    </ul>
+  {%- endif -%}
+
+    {%- if site.posts.size > 0 -%}
+    <h2>&#x1f5c2; Policy, Politics, & Law</h2>
+    <ul class="">
+      {% for post in site.categories.PDFs %}
+      {% if post.tags contains 'Politics' %}
+      <li><a class="" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></li>
+        {% if post.subtitle %}
+        <ul style="list-style-type: none; margin-top:-10px;font-style:italic;font-size:14px;padding-left:1em;">
+			<li>{{ post.subtitle | escape }}</li>
+		</ul>
+		{% endif %}
+        {%- endif -%}
+      {%- endfor -%}
+    </ul>
+  {%- endif -%}
+
+
+  {%- if site.posts.size > 0 -%}
+    <h2>&#x1f5c2; General</h2>
+    <ul class="">
+      {% for post in site.categories.PDFs %}
+      {% if post.tags contains 'General' %}
+      <li><a class="" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></li>
+        {% if post.subtitle %}
+        <ul style="list-style-type: none; margin-top:-10px;font-style:italic;font-size:14px;padding-left:1em;">
+			<li>{{ post.subtitle | escape }}</li>
+		</ul>
+		{% endif %}
+        {%- endif -%}
+      {%- endfor -%}
+    </ul>
+  {%- endif -%}
+
+
+  {%- if site.posts.size > 0 -%}
+    <h2>&#x1f5c2; Media</h2>
+    <ul class="">
+      {% for post in site.categories.PDFs %}
+        {% if post.tags contains 'Media' %}
+      <li><a class="" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></li>
+        {% if post.subtitle %}
+        <ul style="list-style-type: none; margin-top:-10px;font-style:italic;font-size:14px;padding-left:1em;">
+			<li>{{ post.subtitle | escape }}</li>
+		</ul>
+		{% endif %}
+		{%- endif -%}
+      {%- endfor -%}
+    </ul>
+  {%- endif -%}
+
+
+  <div style="margin-top:70px;">If you have a PDF that would be a good addition, please send my way!</div>
+
+  <div style="font-style:italic; font-size:14px; margin-top:20px;margin-bottom:15px;">*Note: These are being shared in good faith for learning purposes. There is no intention to violate copyrights, if there is an issue please email.</div>
+
