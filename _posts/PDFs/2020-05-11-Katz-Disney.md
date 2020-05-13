@@ -12,5 +12,5 @@ subtitle: Better known as the Jeffrey Katzenberg Disney memo
 
 Worth your time.
 
-**Link: [Katzenberg Disney Memo](/assets/pdfs/Katzenberg.pdf)**
+**Link: [Katzenberg Disney Memo](/assets/pdfs/katzenberg.pdf)**
 <div style="margin-bottom:30px;"></div>

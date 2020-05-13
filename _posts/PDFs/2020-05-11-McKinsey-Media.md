@@ -11,5 +11,5 @@ tag: Media
 
 <span style="font-weight:500;">Status:</span> Read once, used as resource
 
-**Link: [McKinsey Global Media Report](/assets/pdfs/Mckinsey_Media.pdf)**
+**Link: [McKinsey Global Media Report](/assets/pdfs/McKinsey_Media.pdf)**
 <div style="margin-bottom:30px;"></div>
