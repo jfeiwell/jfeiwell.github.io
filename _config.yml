@@ -45,6 +45,8 @@ collections:
       - Tweets.html
       - PDFs.html
       - Quotes.html
+      - Books.html
+      - Podcasts.html
       
 
 # Exclude from processing.

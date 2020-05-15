@@ -16,7 +16,8 @@ layout: default
 
 {{ content }}
 
-{% for folder in site.Folders %}
+{% assign sorted = (site.Folders | sort: 'rank') %}
+{% for folder in sorted %}
   <h4>
     <a href="{{ folder.url }}">
       {{ folder.title }}
