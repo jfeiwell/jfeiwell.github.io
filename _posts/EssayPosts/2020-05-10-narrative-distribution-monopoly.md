@@ -161,7 +161,8 @@ The FedEx CEO, Fred Smith, released [a statement](https://newsroom.fedex.com/new
 
 But the simplest and most poignant pushback came when Musk replied to the CNN story with a litany of evidence that he did in fact send the ventilators - all first-hand accounts from hospitals! They didn’t actually ask any hospitals, they ran the story after someone in the CA Governor’s office said they hadn’t heard of delivery. Why didn’t they check? I thought we were told the journalistic method is beyond reproach? 
 
-<img src="/assets/nd/elon.png" style="width:90%; display: block;margin-left: auto; margin-right: auto;" alt="Elon Sent Receipts">
+<img src="/assets/nd/elon.png" alt="Elon Sent Receipts">
+
 <p class="subphoto">Elon Musk's replies to the CNN tweet documenting he sent the ventilators</p>
 
 Back to the unwillingness to lay down a narrative proved wrong; the head of PR for CNN [doubled down](https://twitter.com/mdornic/status/1251210383177723905?s=20) after Elon posted the evidence of delivery! 
