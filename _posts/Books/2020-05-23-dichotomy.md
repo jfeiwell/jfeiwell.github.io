@@ -10,7 +10,7 @@ category: Books
 
 <div style="margin-top:15px;"></div>
 
-<span style="font-weight:500;">tl;dr:</span> The sequel to [*Extreme Ownership*](https://jfeiwell.com/Folders/books/2020/05/23/ownership.html). The point of this book is to illustrate that leadership isn't one way or the other, it's a delicate balance.
+<span style="font-weight:500;">tl;dr:</span> The sequel to [*Extreme Ownership*](https://jfeiwell.com/books/2020/05/23/ownership.html). The point of this book is to illustrate that leadership isn't one way or the other, it's a delicate balance.
 
 You want to be 'aggressive but not reckless', 'disciplined, not rigid', 'humble, but not passive'. Every chapter illustrates how to navigate these questions ever leader asks themselves.
 
