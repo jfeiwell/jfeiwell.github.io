@@ -54,4 +54,4 @@ Think about it this way. Anonymity is taking this example to its furthest extrem
 
 It’s time to apply the same level of press freedom in practice to everyone, both in praise and critique.
 
-<div style="size:10px"><i>Adapted from my Essay: <a href="https://jfeiwell.com/essays/2020/05/10/narrative-distribution-monopoly.html">The Narrative Distribution Monopoly</a></i></div>
+<div style="font-size:10px"><i>Adapted from my Essay: <a href="https://jfeiwell.com/essays/2020/05/10/narrative-distribution-monopoly.html">The Narrative Distribution Monopoly</a></i></div>
