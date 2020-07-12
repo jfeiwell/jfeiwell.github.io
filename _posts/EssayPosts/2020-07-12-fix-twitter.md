@@ -14,11 +14,11 @@ I know that sounds a little alarmist, because it is. However, Twitter can take a
 
 <ul style="margin-bottom:0px;">
 	<li>Federate Twitter</li>
-	<li>Reform the Quote Tweet</li>
-	<li>Tweet Wrapper => Thread</li>
-	<li>Sentiment Analysis, Higher Quality & Lower Speed</li>
-	<li>Clean Up Usernames</li>
 	<li>Hide Likes</li>
+	<li>Reform the Quote Tweet</li>
+	<li>Sentiment Analysis, Higher Quality & Lower Speed</li>
+	<li>Tweet Wrapper => Thread</li>
+	<li>Clean Up Usernames</li>
 </ul>
 
 ## Federate Twitter 
