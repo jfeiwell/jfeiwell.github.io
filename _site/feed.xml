@@ -1,20 +1,198 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-06-09T18:16:35-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Jfy’s Website</title><subtitle>Jeff Feiwell's personal website</subtitle><entry><title type="html">Extreme Ownership: How U.S. Navy SEALs Lead and Win</title><link href="http://localhost:4000/books/2020/05/23/ownership.html" rel="alternate" type="text/html" title="Extreme Ownership: How U.S. Navy SEALs Lead and Win" /><published>2020-05-23T11:41:39-04:00</published><updated>2020-05-23T11:41:39-04:00</updated><id>http://localhost:4000/books/2020/05/23/ownership</id><content type="html" xml:base="http://localhost:4000/books/2020/05/23/ownership.html">&lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css&quot; /&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-07-12T09:43:41-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Jfy’s Website</title><subtitle>Jeff Feiwell's personal website</subtitle><entry><title type="html">How to Fix Twitter, and Hopefully American Discourse Too</title><link href="http://localhost:4000/essays/2020/07/12/fix-twitter.html" rel="alternate" type="text/html" title="How to Fix Twitter, and Hopefully American Discourse Too" /><published>2020-07-12T09:01:39-04:00</published><updated>2020-07-12T09:01:39-04:00</updated><id>http://localhost:4000/essays/2020/07/12/fix-twitter</id><content type="html" xml:base="http://localhost:4000/essays/2020/07/12/fix-twitter.html">&lt;p&gt;When I first joined Twitter in 2012, it was a great place to be. A lot of my friends were there, cracking jokes and posting pictures with yfrog while hoping the fail whale didn’t ruin the fun. I recall that the company was pitching Twitter as a “public agora”, which made sense but wasn’t an accurate reflection at that time. Really, it was juxtaposed against Facebook as a better social network.&lt;/p&gt;
 
-&lt;p&gt;&lt;span style=&quot;font-weight:500;font-style:italic;&quot;&gt; Author: Jocko Willink &amp;amp; Leif Babin&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Now that Twitter &lt;em&gt;is&lt;/em&gt; the public agora, its functionality defines the rules of engagement for public debate, and those rules allow for chaos and massacre. Twitter’s current functionality gravely endangers the future of the Republic. If they do not take it upon themselves to act now, they will be responsible for the American equivalent of moving the capital from St. Petersburg to Moscow.&lt;/p&gt;
+
+&lt;p&gt;I know that sounds a little alarmist, because it is. However, Twitter can take a few steps to reverse their role in warehousing division and hate. As well as the mental health crisis that is outrage. “The medium is the message” has become trite, but Mcluhan’s point remains - Twitter needs to alter the medium before Americans succumb to the message. Here are a few ideas to do so:&lt;/p&gt;
+
+&lt;ul style=&quot;margin-bottom:0px;&quot;&gt;
+	&lt;li&gt;Federate Twitter&lt;/li&gt;
+	&lt;li&gt;Reform the Quote Tweet&lt;/li&gt;
+	&lt;li&gt;Tweet Wrapper =&amp;gt; Thread&lt;/li&gt;
+	&lt;li&gt;Sentiment Analysis, Higher Quality &amp;amp; Lower Speed&lt;/li&gt;
+	&lt;li&gt;Clean Up Usernames&lt;/li&gt;
+	&lt;li&gt;Hide Likes&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;federate-twitter&quot;&gt;Federate Twitter&lt;/h2&gt;
+&lt;p&gt;The most audacious ask. People already use terms like “baseball Twitter” or “VC Twitter” as if they were clearly federated channels - why not actually do that?&lt;/p&gt;
+
+&lt;p&gt;Don’t get me wrong, the aggregation of all my interests into one feed is amazing (and why no one visits news sites anymore), but in practice the intended effect hardly occurs. Usually my feed is plagued with the story of the day as if I’m turning on cable news.&lt;/p&gt;
+
+&lt;p&gt;Yes, it’s possible to tune it out sometimes, but that comes at the expense of missing out on other great content. I don’t want to follow Brian Koppelman or Buster Olney for their political takes, even if I agree with them 100%, I want to learn about storytelling and get updates on baseball.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Deescalating&lt;/strong&gt; the politicization of &lt;em&gt;everything&lt;/em&gt;, and reducing the speed at which takes come flying through the Twittersphere, will turn down the temperature and volume while providing for deeper engagement.&lt;/p&gt;
+
+&lt;p&gt;The way to do this would be to require users to tag the vertical(s) they want to post in before posting. &lt;strong&gt;The follower would then see the tweet only if they follow both the person and the vertical.&lt;/strong&gt; Users would be able to follow all of someone’s tweets if they want, but it would require one extra step - as the default follow functionality would result in only seeing the nexus of that person’s tweets and your follow tags.&lt;/p&gt;
+
+&lt;p&gt;Users would still be able to tweet without specific channels tagged. Only followers selecting all tweets or just personal (non-vertical) tweets would see them.&lt;/p&gt;
+
+&lt;p&gt;In terms of defining verticals, Twitter can do most of the leg work - defining the official taxonomy with layups like Football &amp;gt; NFL &amp;gt; Cleveland Browns. And with multiple entry points like Tech / Money / Cryptography &amp;gt; Cryptocurrencies &amp;gt; Bitcoin. There are easily thousands that can be defined (Topics is a far cry from what could be). Then figure out how to allow users to define new categories, maybe put the blue check to good use!&lt;/p&gt;
+
+&lt;p&gt;The upshot? &lt;strong&gt;This would also be a great business decision.&lt;/strong&gt; Twitter’s Q1 2020 CPM was $4.97. If they were to fully embrace contextual advertising, leveraging their first-party data as well, they could own a burgeoning segment of the digital ad market and raise their avg CPM well into double digits. Think about it, has a Twitter ad ever actually made an impact on you? Contextual is the natural response to the death of the cookie, most competition in this space won’t have the first party data nor the free inventory.&lt;/p&gt;
+
+&lt;h2 id=&quot;reform-the-quote-tweet&quot;&gt;Reform the Quote Tweet&lt;/h2&gt;
+&lt;p&gt;On April, 6 2015 the Quote Tweet was born. I do not believe it an accident that, at least anecdotally, the culture of outrage and personal attack has grown exponentially on Twitter in the last 5 years. “Dunking” on someone seems to be the primary use of the Quote Tweet feature, and so many of the viral outrage tweets are in the form of the Quote Tweet.&lt;/p&gt;
+
+&lt;p&gt;Now, users were hacking this together before it happened so it’s obviously a popular feature. It makes sense; syndicating information is the primary purpose of Twitter - whether that’s from your brain or another source, everyone’s just a router. But the madness must stop.&lt;/p&gt;
+
+&lt;div style=&quot;padding-bottom:0px; margin-bottom:-.5em;&quot;&gt;&lt;b&gt;Solutions&lt;/b&gt;&lt;/div&gt;
+&lt;p&gt;Add permissions on any tweet that gets Quote Tweeted:&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;If a user comes by my tweet via a Quote Tweet, allow me to block them from viewing my  tweet via the Quote Tweet&lt;/li&gt;
+	&lt;li&gt;Allow me to set max absolute Quote Tweets or max Retweet of a subsequent Quote Tweet&lt;/li&gt;
+	&lt;li&gt;Allow me to disable Quote Tweets all together&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;OR, drum roll please… &lt;em&gt;edit button&lt;/em&gt;! It would solve so much. Then add a versionsioning system to allow the original to be preserved.&lt;/p&gt;
+
+&lt;p&gt;Federation will actually solve this, but without it, these solutions are necessary.&lt;/p&gt;
+
+&lt;h2 id=&quot;tweet-wrapper--thread&quot;&gt;Tweet Wrapper =&amp;gt; Thread&lt;/h2&gt;
+&lt;p&gt;Threads are awesome, but there’s a reason services like unroll exist. Reading a thread interrupted by the username, picture, etc. every 280 characters is taxing. Secondly, syndication of a tweet in a thread can lose all context.&lt;/p&gt;
+
+&lt;div style=&quot;padding-bottom:0px; margin-bottom:-.5em;&quot;&gt;&lt;b&gt;Solution&lt;/b&gt;&lt;/div&gt;
+
+&lt;p&gt;Convert the thread into a single object segmented by 280 character fields, separated either by nothing or slightly darker/lighter backgrounds. The reader sees breaks every 280 characters like normal, but it’s much cleaner and more importantly - will convey a sense of coherence. The world is an incredibly nuanced place. Discourse in 280 characters is not.&lt;/p&gt;
+
+&lt;p&gt;The user can then choose which tweet in the thread serves as a wrapper. And/or when Retweeted, that user can choose which tweet will serve as the wrapper. The wrapper is more or less a headline - when the user clicks on the wrapper tweet, they move to the seamless thread.&lt;/p&gt;
+
+&lt;p&gt;This solution has the additional benefit of synchronizing replies onto a single thread object.&lt;/p&gt;
+
+&lt;h2 id=&quot;sentiment-analysis-higher-quality--lower-speed&quot;&gt;Sentiment Analysis, Higher Quality &amp;amp; Lower Speed&lt;/h2&gt;
+&lt;p&gt;One of the questions raised by the federation idea is, what happens to generally public features like Trends? Twitter as a resource for breaking news can’t be disputed at this point; that functionality must be preserved and strengthened. But the current set up just aint it.&lt;/p&gt;
+
+&lt;p&gt;Here are two tweets taken from two recent trends, ‘Susan Collins’ and ‘Nancy Pelosi’ respectively.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;F*ck Trump&lt;br /&gt;F*ck Barr&lt;br /&gt;F*ck Lindsey Graham&lt;br /&gt;F*ck Mitch McConnell&lt;br /&gt;F*ck Susan Collins&lt;br /&gt;F*ck Ted Cruz&lt;br /&gt;F*ck John Cornyn&lt;br /&gt;F*ck Tom Cotton&lt;br /&gt;F*ck Cory Gardner&lt;br /&gt;F*ck Chuck Grassley&lt;br /&gt;F*ck John Kennedy&lt;br /&gt;F*ck Matt Gaetz&lt;br /&gt;F*ck Jim Jordan&lt;br /&gt;F*ck Kelly Loeffler&lt;br /&gt;F*ck Rand Paul&lt;br /&gt;&lt;br /&gt;F*CK THE ENTIRE GOP &lt;a href=&quot;https://t.co/PR0KyoE5K8&quot;&gt;pic.twitter.com/PR0KyoE5K8&lt;/a&gt;&lt;/p&gt;&amp;mdash; José (@yoruguaenusa) &lt;a href=&quot;https://twitter.com/yoruguaenusa/status/1281774758967889921?ref_src=twsrc%5Etfw&quot;&gt;July 11, 2020&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;⁦&lt;a href=&quot;https://twitter.com/JoeBiden?ref_src=twsrc%5Etfw&quot;&gt;@JoeBiden&lt;/a&gt;⁩ ⁦&lt;a href=&quot;https://twitter.com/SpeakerPelosi?ref_src=twsrc%5Etfw&quot;&gt;@SpeakerPelosi&lt;/a&gt;⁩ Sums it well &lt;a href=&quot;https://t.co/OnsAyce9Mp&quot;&gt;https://t.co/OnsAyce9Mp&lt;/a&gt;&lt;/p&gt;&amp;mdash; nicole (@nicole47877716) &lt;a href=&quot;https://twitter.com/nicole47877716/status/1281977304567222274?ref_src=twsrc%5Etfw&quot;&gt;July 11, 2020&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;Both of these were less than 20 tweets into the “Top” section that is ostensibly a filter of quality compared to the “Latest” option. Twitter has to stop this type of hyperbolic outrage, and nonsensical filler. Those tweets are of no value to anyone (not to mention, inciting violence?).&lt;/p&gt;
+
+&lt;p&gt;If those same accounts wanted to make reasoned and informed arguments against those politicians, by all means. Even if the arguments are far outside the Overton window, so long as they are thoughtful they should be surfaced equally.&lt;/p&gt;
+
+&lt;p&gt;Sentiment analysis, scoring primarily thoughtfulness, can raise the quality bar. Modern advances in NLP should make this not only possible but possible to do well.&lt;/p&gt;
+
+&lt;p&gt;Secondly, sentiment analysis should be used to grade tweets that begin to go viral. Auto-braking tweets at certain Retweet and reply counts could be detrimental when serious breaking news occurs, so that will have to be a consideration. But scoring the sentiment to make sure it’s not vitriolic outrage based in emotion could lower the speed of hate and reduce the collective blood pressure.&lt;/p&gt;
+
+&lt;p&gt;As a general rule of thumb, the &lt;a href=&quot;https://en.wikipedia.org/wiki/Lindy_effect&quot;&gt;Lindy effect&lt;/a&gt; should be the governing principle. If you cap Retweets and replies in absolute numbers or by sentiment, and the content is actually good enough, it will continue to rise to the top over time.&lt;/p&gt;
+
+&lt;h2 id=&quot;hide-likes&quot;&gt;Hide Likes&lt;/h2&gt;
+&lt;p&gt;Make likes only visible to both the liker and likee. Twitter is optimized for virtue signalling, period. We’ve all read how tribal Twitter is, well this single feature is the forcing function of that tribalism in every last vertical.&lt;/p&gt;
+
+&lt;p&gt;By making likes private, Twitter can still use the signal to optimize the home feed algo. In fact this will provide a much richer signal as the likes become a more honest indication of someone’s opinions, while preserving the personal satisfaction (dopamine) users get from likes. I’d wager this would make engagement go &lt;em&gt;up&lt;/em&gt;!&lt;/p&gt;
+
+&lt;p&gt;What about the ability to scan someone else’s likes? Maybe this is where a new Quote Tweet comes in. A separate feed created by users that allows them to syndicate tweets without the full endorsement of a Retweet or the aforementioned problems of a like. No footprint on the tweet object itself.&lt;/p&gt;
+
+&lt;h2 id=&quot;clean-up-usernames&quot;&gt;Clean Up Usernames&lt;/h2&gt;
+&lt;p&gt;So much of the nonsensical outrage comes from usernames like ‘jack09324189’. The username from the Pelosi example above is ‘nicole47877716’, and the account is following 5 people with one follower.&lt;/p&gt;
+
+&lt;p&gt;I’m against a strict real name policy - but Twitter can also make a constitutive choice that bifurcates users into real names and pseudonyms. If you’re going to use a real name - great, you must have a real profile. If you want to be anonymous - great, you must set up a truly pseudonymous account. The strangle between the two is what accounts for most of the filler in replies.&lt;/p&gt;
+
+&lt;p&gt;Facebook is obviously a bit draconian with their policy, &lt;em&gt;but at least they have one&lt;/em&gt;. If Twitter is to be the public agora, it must build the mechanisms with which discourse worthy of that title can flourish.&lt;/p&gt;
+
+&lt;p&gt;–&lt;/p&gt;
+
+&lt;p&gt;Lastly, replies need to be fixed but I don’t really have a solution. Federation and cleaning up usernames would absolutely help, but don’t constitute a silver bullet. Having 5k replies on a tweet is pure insanity, as most of those replies prove. Would love to hear ideas here.&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;I think it’s fair to say Twitter (the company) subscribes to the theory of stakeholder capitalism. If there is any stakeholder of Twitter worth protecting, it is Western civilization. Designing the product with this in mind is the only way to add civility and nuance on Twitter.&lt;/p&gt;
+
+&lt;p&gt;Traditionally we’ve regulated the means of communication that carry political messaging, but the digital frontier is a brave new world, we don’t know how to regulate it. I’d be remiss if I said I thought regulators could solve the problem. Though parallels exist, we force auto manufacturers to &lt;a href=&quot;https://www.law.cornell.edu/cfr/text/49/393.40&quot;&gt;add brakes&lt;/a&gt;, and we tax cigarettes because they’re bad for us. Twitter needs brakes.&lt;/p&gt;
+
+&lt;p&gt;It’s incumbent on leaders inside Twitter to lead. Take the reins and implement changes that will benefit society writ large. There need not be some blue ribbon commission, some special committee, no DC panels, a long study, or a non-profit dedicated to some ethics in tech. We need action. Yesterday. Great things happen &lt;a href=&quot;https://patrickcollison.com/fast&quot;&gt;fast&lt;/a&gt;. Twitter only needs to do the right thing.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/share?ref_src=twsrc%5Etfw&quot; class=&quot;twitter-share-button&quot; data-show-count=&quot;false&quot;&gt;Tweet&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;</content><author><name></name></author><category term="Essays" /><summary type="html">When I first joined Twitter in 2012, it was a great place to be. A lot of my friends were there, cracking jokes and posting pictures with yfrog while hoping the fail whale didn’t ruin the fun. I recall that the company was pitching Twitter as a “public agora”, which made sense but wasn’t an accurate reflection at that time. Really, it was juxtaposed against Facebook as a better social network.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/twit_post.png" /><media:content medium="image" url="http://localhost:4000/assets/twit_post.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Freedom of the Press Isn’t About Journalism, It’s About People</title><link href="http://localhost:4000/notes/2020/07/07/press-freedom.html" rel="alternate" type="text/html" title="Freedom of the Press Isn't About Journalism, It's About People" /><published>2020-07-07T11:41:39-04:00</published><updated>2020-07-07T11:41:39-04:00</updated><id>http://localhost:4000/notes/2020/07/07/press-freedom</id><content type="html" xml:base="http://localhost:4000/notes/2020/07/07/press-freedom.html">&lt;p&gt;When facing criticism, a common rebuke used by the Press is that the accuser is attacking “a free press”. The operative word being ‘free’. What that criticism often is - pointing out inaccuracies, or items that are not fair to the subject - is entirely removed from the argument at hand, the freedom to publish. In fact, one can argue that the First Amendment’s clause citing a free press has just as much, if not more, to do with the critic’s freedom as the original publisher.&lt;/p&gt;
+
+&lt;p&gt;Journalists love this quote from Jefferson about free and fair press, &lt;em&gt;“were it left to me to decide whether we should have a government without newspapers or newspapers without a government, I should not hesitate a moment to prefer the latter.”&lt;/em&gt; I couldn’t agree more. But there are two huge problems with the contemporary use of the quote and similar lines of reasoning.&lt;/p&gt;
+
+&lt;p&gt;First, ‘newspapers’ in 1789 were not a distribution vehicle for the then-not-invented concept of 20th century journalism. Second, Jefferson wrote a litany of letters sharply critical of the Press, mostly from his later and post Presidency years.&lt;/p&gt;
+
+&lt;p&gt;Reporting as we think of it now was still far away. If those early newspapers did contain what we think of as contemporary news, it was almost always either reports from Europe that were sometimes months old or local news of a town’s doings.&lt;/p&gt;
+
+&lt;p&gt;With newfound access to the debates of Parliament, the act of reporting blossomed in late 18th century London. But, according to Mitchell Stephens’ &lt;em&gt;History of News&lt;/em&gt;, it was not until the 1820s that it came to America. 1822 was the first year a reporter from outside Washington took up covering DC. And it wasn’t until almost 20 years later with the advent of the telegraph that, as Neil Postman puts it, ‘we had decontextualized news of the day’.&lt;/p&gt;
+
+&lt;p&gt;Impartiality, in the same flavor we’ve come to expect from our outlets, was alive in the early years of the Republic. There were high minded Federalist newspapers that sought impartiality, but they were not primarily gathering news, and quickly became the exception.&lt;/p&gt;
+
+&lt;p&gt;The Continental Congress and Original Colonies were not shy about the role they saw for the press in a new Union of States. In a 1774 address the Congress stated the freedom of the press promotes &lt;em&gt;“truth, science, morality….[and] whereby oppressive officers are shamed or intimidated into more honourable and just modes of conducting affairs.”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The Pennsylvania Declaration of rights stated &lt;em&gt;“The people have a right to freedom of speech, and of writing, and publishing their sentiments, therefore, the freedom of the press ought not to be restrained”&lt;/em&gt; That verbiage implies strong sentiment for absolute freedom, as well as no special treatment to publish.&lt;/p&gt;
+
+&lt;p&gt;Perhaps most important in figuring out what was meant by ‘press freedom’ back then is how the two seminal cases regarding it set the tone for the issue in America.&lt;/p&gt;
+
+&lt;p&gt;In 1733 John Peter Zenger, printer and publisher of &lt;em&gt;The New York Weekly Journal&lt;/em&gt; was arrested and imprisoned for eight months before surviving trial for criticizing the New York Royal Governor. His defense introduced an argument that would be used by future journalists accused of libel - truth. That it is not libelous if it is true. More importantly, the defense was adopted by the hearts and minds of American citizens.&lt;/p&gt;
+
+&lt;p&gt;69 years later Harry Croswell, the editor of an explicitly Federalist newspaper &lt;em&gt;The WASP&lt;/em&gt; (opposed to the Democratic-Republican paper &lt;em&gt;The Bee&lt;/em&gt;), was put on trial for asserting President Jefferson had paid James Callender to call George Washington “a traitor, a robber and a perjurer” as well as attacking John Adams.&lt;/p&gt;
+
+&lt;p&gt;After losing the case, Alexander Hamilton rose to his defense in an appeal heard by the NY Supreme Court. He argued that truth is a defense for libel, and Justice James Kent essentially agreed. The case was lost but the spirit of Kent’s opinion was codified in NY State’s laws, followed by PA, and eventually the soul of the American people.&lt;/p&gt;
+
+&lt;p&gt;The Alien &amp;amp; Sedition Acts, and the Sedition Act of 1918, both jailed political figures for their writings, not the modern interpretation of objective journalists.&lt;/p&gt;
+
+&lt;p&gt;The point of these examples is that our modern interpretation of the First Amendment regarding the Press is actually a product of political discourse, not modern reporting. Reporting is certainly covered, but the precedents and sentiment that set that tone are a byproduct of individual actors and publications, not card carrying members of a press corps.&lt;/p&gt;
+
+&lt;p&gt;To the second point. Jefferson well understood the role of a free press in principle, but he also despised them in practice. He understood what is true today, humans pay attention to news that is grandiose. His entire quote, often reduced to &lt;em&gt;&lt;a href=&quot;https://www.loc.gov/resource/mtj1.038_0592_0594/?sp=2&amp;amp;st=text&quot;&gt;“Nothing can now be believed which is seen in a newspaper”&lt;/a&gt;&lt;/em&gt; is worth reading:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;
+“To your request of my opinion of the manner in which a newspaper should be conducted, so as to be most useful, I should answer, “by restraining it to true facts &amp;amp; sound principles only.” Yet I fear such a paper would find few subscribers. It is a melancholy truth, that a suppression of the press could not more compleatly deprive the nation of it's benefits, than is done by it's abandoned prostitution to falsehood. Nothing can now be believed which is seen in a newspaper. Truth itself becomes suspicious by being put into that polluted vehicle. The real extent of this state of misinformation is known only to those who are in situations to confront facts within their knowledge with the lies of the day. 
+&lt;br /&gt;
+&lt;br /&gt;
+I really look with commiseration over the great body of my fellow citizens, who, reading newspapers, live &amp;amp; die in the belief, that they have known something of what has been passing in the world in their time; whereas the accounts they have read in newspapers are just as true a history of any other period of the world as of the present, except that the real names of the day are affixed to their fables. General facts may indeed be collected from them, such as that Europe is now at war, that Bonaparte has been a successful warrior, that he has subjected a great portion of Europe to his will, &amp;amp;c., &amp;c.; but no details can be relied on. 
+&lt;br /&gt;
+&lt;br /&gt;
+I will add, that the man who never looks into a newspaper is better informed than he who reads them; inasmuch as he who knows nothing is nearer to truth than he whose mind is filled with falsehoods &amp;amp; errors. He who reads nothing will still learn the great facts, and the details are all false.”
+&lt;br /&gt; - Thomas Jefferson to John Norvell, June 11, 1807&lt;/div&gt;
+
+&lt;p&gt;The argument I make here is analogous, the importance of the freedom to publish cannot be understated. With that comes the right to critique what is being published.&lt;/p&gt;
+
+&lt;p&gt;In order to improve our society from the consequences of this Noble Myth, we must not limit the scope of press freedom, but expand it.&lt;/p&gt;
+
+&lt;p&gt;Think about it this way. Anonymity is taking this example to its furthest extreme. Yet some of the most important writing to appear within the pages of a newspaper was written anonymously. The Federalist Papers and the Anti-Federalist Papers, which carried the weight of selling 13 states on banding together, were written under pseudonyms! Ben Franklin was famous for writing anonymously under pen names such as Silence Dogood, Richard Saunders, and Busy Body. How did this era of anonymous, non-journalistic, era of information turn out? I’d say we did alright.&lt;/p&gt;
+
+&lt;p&gt;It’s time to apply the same level of press freedom in practice to everyone, both in praise and critique.&lt;/p&gt;
+
+&lt;div style=&quot;font-size:10px&quot;&gt;&lt;i&gt;Adapted from my Essay: &lt;a href=&quot;https://jfeiwell.com/essays/2020/05/10/narrative-distribution-monopoly.html&quot;&gt;The Narrative Distribution Monopoly&lt;/a&gt;&lt;/i&gt;&lt;/div&gt;</content><author><name></name></author><category term="Notes" /><summary type="html">When facing criticism, a common rebuke used by the Press is that the accuser is attacking “a free press”. The operative word being ‘free’. What that criticism often is - pointing out inaccuracies, or items that are not fair to the subject - is entirely removed from the argument at hand, the freedom to publish. In fact, one can argue that the First Amendment’s clause citing a free press has just as much, if not more, to do with the critic’s freedom as the original publisher.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/press.png" /><media:content medium="image" url="http://localhost:4000/assets/press.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">The ABC Universal Commercial Electric Telegraphic Code</title><link href="http://localhost:4000/pdfs/2020/07/01/abcuniversal.html" rel="alternate" type="text/html" title="The ABC Universal Commercial Electric Telegraphic Code" /><published>2020-07-01T11:41:39-04:00</published><updated>2020-07-01T11:41:39-04:00</updated><id>http://localhost:4000/pdfs/2020/07/01/abcuniversal</id><content type="html" xml:base="http://localhost:4000/pdfs/2020/07/01/abcuniversal.html">&lt;div style=&quot;margin-top:15px;&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;span style=&quot;font-weight:500;&quot;&gt;tl;dr:&lt;/span&gt; Probably the best resource for naming a company or project.&lt;/p&gt;
+
+&lt;p&gt;Telegrams were pithy, using literal convections with few to no punctuations. Telegram services like Western Union used to charge by the word and even character limit words, so different sets of codes were developed to convey more meaning in fewer words.&lt;/p&gt;
+
+&lt;p&gt;This guide takes a root word, lists common phrases using that word, and assigns a word as a code for the phrase. Many of the code words are unique, which is what makes this a powerful naming tool.&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;
+&quot;Every day the value of the telegraphic system is being more and more
+felt. It has revolutionised our commerce, and proved of inestimable value in domestic affairs ; there is no relation of life in which the in- fluence of the change it has effected has not been felt. Electricity has done as much as human effort can accomplish towards the annihilation of space and time, and its adaptation for practical purposes is, perhaps,
+the greatest invention of the present century.&quot;&lt;/div&gt;
+
+&lt;p&gt;&lt;i&gt;Author: William Clauson-Thue&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Link: &lt;a href=&quot;/assets/pdfs/abcuniversal.pdf&quot;&gt;The ABC Universal Commercial Electric Telegraphic Code&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;div style=&quot;margin-bottom:30px;&quot;&gt;&lt;/div&gt;</content><author><name></name></author><category term="PDFs" /><category term="Business" /><summary type="html"></summary></entry><entry><title type="html">Grant</title><link href="http://localhost:4000/books/2020/06/28/grant.html" rel="alternate" type="text/html" title="Grant" /><published>2020-06-28T11:41:39-04:00</published><updated>2020-06-28T11:41:39-04:00</updated><id>http://localhost:4000/books/2020/06/28/grant</id><content type="html" xml:base="http://localhost:4000/books/2020/06/28/grant.html">&lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css&quot; /&gt;
+
+&lt;p&gt;&lt;span style=&quot;font-weight:500;font-style:italic;&quot;&gt; Author: Ron Chernow&lt;/span&gt;&lt;/p&gt;
 
 &lt;div style=&quot;margin-top:15px;&quot;&gt;&lt;/div&gt;
 
-&lt;p&gt;&lt;span style=&quot;font-weight:500;&quot;&gt;tl;dr:&lt;/span&gt; There are a lot of SEAL books out there, this one is universally revered as the best amongst the SEAL community. All of the former team guys say this one is the most legit. Why? Because Jocko and Leif are genuinely trying to make the world a better place with this book.&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight:500;&quot;&gt;tl;dr:&lt;/span&gt;A 5-star rating, despite plenty of questionable editorial decisions, is the only option for a much needed recanting of one of America’s great men. &lt;/p&gt;
 
-&lt;p&gt;Every chapter is a principle they learned while serving in the SEAL teams. Offering anecdotes primarily from their time fighting the Battle of Ramadi, one of the bloodiest in the Iraq War. They now run a consulting firm, Echelon Front, that applies those principles in the real world. So each chapter has an ‘application to business’, with a real life story.&lt;/p&gt;
+&lt;p&gt;Grant has been lost in history. Militarily, perhaps the middle child of American Generals between Washington and Eisenhower. And his Presidency has been forever overshadowed by Lincoln and his administration’s scandals. Chernow does an excellent job of documenting for readers the context which has been lost - painting us a picture of a man worthy of Mt. Rushmore. &lt;/p&gt;
 
-&lt;p&gt;Different principles of leadership such as ‘simple’ and ‘there are no bad teams, only bad leaders’ are a gold mine. But the real value comes from the overarching principle of the book: take ownership of everything to an extreme. Even when thing’s aren’t in your control, take ownership and you’ll be better for it.&lt;/p&gt;
+&lt;p&gt;The ebb and flow of Grant’s fortunes are parallel products of his obstinate character and virtue. A fearless warrior and patriot who began his Midwestern life in southern Ohio, he came into his own during the Mexican-American war, proving to be an apt soldier. Chernow then tells the stories of Grant’s battlefield brilliance during the Civil War in exhilarating and detailed fashion. &lt;/p&gt;
 
-&lt;p&gt;The obvious question is how? If it’s going to storm, that’s not something you can control. Well, if you take extreme ownership you’ll re-frame it, and realize that what you can control is packing rain gear and dry clothes in advance. This mentality will lead to results, plain and simple.&lt;/p&gt;
+&lt;p&gt;He also details how that legendary virtue led him to frequently misjudge those who lacked it.  &lt;/p&gt;
 
-&lt;p&gt;The book should be required reading in high schools across America.&lt;/p&gt;
+&lt;p&gt;It’s almost unthinkable that the man who led the Union to victory, held the country together during Reconstruction, and reached mythical status – was scrounging the streets of Galena Illinois for cash.&lt;/p&gt;
 
-&lt;p&gt;Oh, and be disciplined.&lt;/p&gt;
+&lt;p&gt;The book also does a great job telling lesser known triumphs such as staving off war with Britain and defanging the KKK.&lt;/p&gt;
+
+&lt;p&gt;Ultimately, I think the book should have been a two-volume endeavor. The section on his Presidency seems rushed at times and you can’t help but feel like there’s glossing over of major events. Grant’s silent campaign for the nomination in 1880 also lacks a ton of detail on what the principal characters were doing to advance it.&lt;/p&gt;
+
+&lt;p&gt;The other problem is that the first half of the book spends entirely too much time on Grant’s battle with alcohol (as most Amazon reviews note). But readers who make it past this will be rewarded.&lt;/p&gt;
+
+&lt;p&gt;It’s clear why Grant didn’t follow in Washington’s footsteps and earn Chernow another Pulitzer. But it’s certainly worth the read – hardly any bore to it.&lt;/p&gt;
+
+&lt;p&gt;Grant was the quintessential common man with an uncommon desire to succeed. Even if he didn’t show it.&lt;/p&gt;
 
 &lt;table&gt;
 	&lt;tr&gt;&lt;b&gt;Stars: &lt;/b&gt;&lt;/tr&gt;
@@ -27,7 +205,7 @@
 	&lt;/tr&gt;
 &lt;/table&gt;
 
-&lt;p&gt;&lt;strong&gt;Amazon: &lt;a href=&quot;https://www.amazon.com/gp/product/1760558206/&quot;&gt;Extreme Ownership: How U.S. Navy SEALs Lead and Win&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</content><author><name></name></author><category term="Books" /><summary type="html"></summary></entry><entry><title type="html">The Passage of Power (The Years of Lyndon Johnson, Volume 4)</title><link href="http://localhost:4000/books/2020/05/23/passage.html" rel="alternate" type="text/html" title="The Passage of Power (The Years of Lyndon Johnson, Volume 4)" /><published>2020-05-23T11:41:39-04:00</published><updated>2020-05-23T11:41:39-04:00</updated><id>http://localhost:4000/books/2020/05/23/passage</id><content type="html" xml:base="http://localhost:4000/books/2020/05/23/passage.html">&lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Amazon: &lt;a href=&quot;https://www.amazon.com/Grant-Ron-Chernow/dp/159420487X&quot;&gt;Grant&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</content><author><name></name></author><category term="Books" /><summary type="html"></summary></entry><entry><title type="html">The Passage of Power (The Years of Lyndon Johnson, Volume 4)</title><link href="http://localhost:4000/books/2020/05/23/passage.html" rel="alternate" type="text/html" title="The Passage of Power (The Years of Lyndon Johnson, Volume 4)" /><published>2020-05-23T11:41:39-04:00</published><updated>2020-05-23T11:41:39-04:00</updated><id>http://localhost:4000/books/2020/05/23/passage</id><content type="html" xml:base="http://localhost:4000/books/2020/05/23/passage.html">&lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css&quot; /&gt;
 
 &lt;p&gt;&lt;span style=&quot;font-weight:500;font-style:italic;&quot;&gt; Author: Robert Caro&lt;/span&gt;&lt;/p&gt;
 
@@ -165,83 +343,4 @@
 	&lt;/tr&gt;
 &lt;/table&gt;
 
-&lt;p&gt;&lt;strong&gt;Amazon: &lt;a href=&quot;https://www.amazon.com/gp/product/0195098293&quot;&gt;The Rise of the Image, the Fall of the Word&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</content><author><name></name></author><category term="Books" /><summary type="html"></summary></entry><entry><title type="html">The Score Takes Care of Itself: My Philosophy of Leadership</title><link href="http://localhost:4000/books/2020/05/23/score.html" rel="alternate" type="text/html" title="The Score Takes Care of Itself: My Philosophy of Leadership" /><published>2020-05-23T11:41:39-04:00</published><updated>2020-05-23T11:41:39-04:00</updated><id>http://localhost:4000/books/2020/05/23/score</id><content type="html" xml:base="http://localhost:4000/books/2020/05/23/score.html">&lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css&quot; /&gt;
-
-&lt;p&gt;&lt;span style=&quot;font-weight:500;font-style:italic;&quot;&gt; Author: Bill Walsh&lt;/span&gt;&lt;/p&gt;
-
-&lt;div style=&quot;margin-top:15px;&quot;&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;span style=&quot;font-weight:500;&quot;&gt;tl;dr:&lt;/span&gt; Written by the legendary San Francisco 49ers coach Bill Walsh, the book is a must read on leadership.&lt;/p&gt;
-
-&lt;p&gt;The premise of the book is evident in its title. Not dissimilar to ‘trust the process’, Walsh takes us through how he turned around the 49ers by implementing standards that would pay off if followed.&lt;/p&gt;
-
-&lt;p&gt;When he started, he taught the receptionists how to answer the phones. People asked, what did that had to do with winning football games? He understood that from top to bottom, the 49ers organization had to build a &lt;strong&gt;culture&lt;/strong&gt; of doing things right. And that culture is what would foster and result in winning.&lt;/p&gt;
-
-&lt;p&gt;The book has a ton of different examples on what that culture entailed. Such as how others will only follow your actions, not words. And the need to prepare.&lt;/p&gt;
-
-&lt;p&gt;He also spells out his standard of performance, including ‘be fair’, ‘demonstrate character’, ‘show self-control’, ‘especially under pressure’.&lt;/p&gt;
-
-&lt;p&gt;Walsh took over a 2-14 football team in the 1978 49ers. 3 years later they won the Super Bowl. 3 years later another. 4 years after that, another. The year after that, 14-2 and another Super Bowl. That time without Walsh, but the culture he built was that of winners. And it was still driving the 1989 49ers without him.&lt;/p&gt;
-
-&lt;p&gt;Lesson: Culture wins.&lt;/p&gt;
-
-&lt;table&gt;
-	&lt;tr&gt;&lt;b&gt;Stars: &lt;/b&gt;&lt;/tr&gt;
-	&lt;tr&gt;
-		&lt;span class=&quot;fa fa-star checked&quot;&gt;&lt;/span&gt;
-		&lt;span class=&quot;fa fa-star checked&quot;&gt;&lt;/span&gt;
-		&lt;span class=&quot;fa fa-star checked&quot;&gt;&lt;/span&gt;
-		&lt;span class=&quot;fa fa-star checked&quot;&gt;&lt;/span&gt;
-		&lt;span class=&quot;fa fa-star checked&quot;&gt;&lt;/span&gt;
-	&lt;/tr&gt;
-&lt;/table&gt;
-
-&lt;p&gt;&lt;strong&gt;Amazon: &lt;a href=&quot;https://www.amazon.com/gp/product/1591843472/&quot;&gt;The Score Takes Care of Itself: My Philosophy of Leadership&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</content><author><name></name></author><category term="Books" /><summary type="html"></summary></entry><entry><title type="html">Shadow Warriors: Inside the Special Forces</title><link href="http://localhost:4000/books/2020/05/23/shadow.html" rel="alternate" type="text/html" title="Shadow Warriors: Inside the Special Forces" /><published>2020-05-23T11:41:39-04:00</published><updated>2020-05-23T11:41:39-04:00</updated><id>http://localhost:4000/books/2020/05/23/shadow</id><content type="html" xml:base="http://localhost:4000/books/2020/05/23/shadow.html">&lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css&quot; /&gt;
-
-&lt;p&gt;&lt;span style=&quot;font-weight:500;font-style:italic;&quot;&gt; Authors: Tom Clancy &amp;amp; Carl Stiner&lt;/span&gt;&lt;/p&gt;
-
-&lt;div style=&quot;margin-top:15px;&quot;&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;span style=&quot;font-weight:500;&quot;&gt;tl;dr:&lt;/span&gt; A history of the Special Operations community within the American military. Starting with the Jedburgh teams in World War II, which were small groups of Allies that went deep into Nazi Germany to inflict disproportionate amounts of pain. To the missions in Vietnam, Lebanon, Panama, Nicaragua, and more.&lt;/p&gt;
-
-&lt;p&gt;The book details all special operations but primarily tells the stories through the eyes of Army Special Forces, aka Green Berets. This is because the co-author is “Country” Carl Stiner. Stiner played a pivotal role in setting up and building up our unconventional warfare capabilities.&lt;/p&gt;
-
-&lt;p&gt;It’s hard to believe now but all the way to 9/11 most conventional forces inside the military looked down on spec ops. The book gives first hand accounts of both combat and political battles along the way.&lt;/p&gt;
-
-&lt;table&gt;
-	&lt;tr&gt;&lt;b&gt;Stars: &lt;/b&gt;&lt;/tr&gt;
-	&lt;tr&gt;
-		&lt;span class=&quot;fa fa-star checked&quot;&gt;&lt;/span&gt;
-		&lt;span class=&quot;fa fa-star checked&quot;&gt;&lt;/span&gt;
-		&lt;span class=&quot;fa fa-star checked&quot;&gt;&lt;/span&gt;
-		&lt;span class=&quot;fa fa-star&quot;&gt;&lt;/span&gt;
-		&lt;span class=&quot;fa fa-star&quot;&gt;&lt;/span&gt;
-	&lt;/tr&gt;
-&lt;/table&gt;
-
-&lt;p&gt;&lt;strong&gt;Amazon: &lt;a href=&quot;https://www.amazon.com/Tom-Clancy/dp/0399147837/&quot;&gt;Shadow Warriors: Inside the Special Forces&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</content><author><name></name></author><category term="Books" /><summary type="html"></summary></entry><entry><title type="html">The Creation of the Media: Political Origins of Modern Communications</title><link href="http://localhost:4000/books/2020/05/23/starr.html" rel="alternate" type="text/html" title="The Creation of the Media: Political Origins of Modern Communications" /><published>2020-05-23T11:41:39-04:00</published><updated>2020-05-23T11:41:39-04:00</updated><id>http://localhost:4000/books/2020/05/23/starr</id><content type="html" xml:base="http://localhost:4000/books/2020/05/23/starr.html">&lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css&quot; /&gt;
-
-&lt;p&gt;&lt;span style=&quot;font-weight:500;font-style:italic;&quot;&gt; Author: Paul Starr&lt;/span&gt;&lt;/p&gt;
-
-&lt;div style=&quot;margin-top:15px;&quot;&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;span style=&quot;font-weight:500;&quot;&gt;tl;dr:&lt;/span&gt; A little wonky at first, the substance makes up for the lack of readability.&lt;/p&gt;
-
-&lt;p&gt;Starr tells the story of American media by explaining many of the outcomes were shaped by political decisions. For example the postal service treating newspapers differently allowed them to spread quicker.&lt;/p&gt;
-
-&lt;p&gt;Like me, Starr believes communications and media touch everything. He does an excellent job of explaining how.&lt;/p&gt;
-
-&lt;p&gt;This book should have won more awards.&lt;/p&gt;
-
-&lt;table&gt;
-	&lt;tr&gt;&lt;b&gt;Stars: &lt;/b&gt;&lt;/tr&gt;
-	&lt;tr&gt;
-		&lt;span class=&quot;fa fa-star checked&quot;&gt;&lt;/span&gt;
-		&lt;span class=&quot;fa fa-star checked&quot;&gt;&lt;/span&gt;
-		&lt;span class=&quot;fa fa-star checked&quot;&gt;&lt;/span&gt;
-		&lt;span class=&quot;fa fa-star checked&quot;&gt;&lt;/span&gt;
-		&lt;span class=&quot;fa fa-star checked&quot;&gt;&lt;/span&gt;
-	&lt;/tr&gt;
-&lt;/table&gt;
-
-&lt;p&gt;&lt;strong&gt;Amazon: &lt;a href=&quot;https://www.amazon.com/gp/product/0465081940&quot;&gt;The Creation of the Media: Political Origins of Modern Communications&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</content><author><name></name></author><category term="Books" /><summary type="html"></summary></entry></feed>
+&lt;p&gt;&lt;strong&gt;Amazon: &lt;a href=&quot;https://www.amazon.com/gp/product/0195098293&quot;&gt;The Rise of the Image, the Fall of the Word&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</content><author><name></name></author><category term="Books" /><summary type="html"></summary></entry></feed>
