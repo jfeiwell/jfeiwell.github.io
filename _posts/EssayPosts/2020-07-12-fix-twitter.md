@@ -38,6 +38,13 @@ In terms of defining verticals, Twitter can do most of the leg work - defining t
 
 The upshot? **This would also be a great business decision.** Twitter’s Q1 2020 CPM was $4.97. If they were to fully embrace contextual advertising, leveraging their first-party data as well, they could own a burgeoning segment of the digital ad market and raise their avg CPM well into double digits. Think about it, has a Twitter ad ever actually made an impact on you? Contextual is the natural response to the death of the cookie, most competition in this space won’t have the first party data nor the free inventory. 
 
+## Hide Likes
+Make likes only visible to both the liker and likee. Twitter is optimized for virtue signalling, period. We’ve all read how tribal Twitter is, well this single feature is the forcing function of that tribalism in every last vertical. 
+
+By making likes private, Twitter can still use the signal to optimize the home feed algo. In fact this will provide a much richer signal as the likes become a more honest indication of someone’s opinions, while preserving the personal satisfaction (dopamine) users get from likes. I’d wager this would make engagement go *up*!
+
+What about the ability to scan someone else’s likes? Maybe this is where a new Quote Tweet comes in. A separate feed created by users that allows them to syndicate tweets without the full endorsement of a Retweet or the aforementioned problems of a like. No footprint on the tweet object itself. 
+
 ## Reform the Quote Tweet
 On April, 6 2015 the Quote Tweet was born. I do not believe it an accident that, at least anecdotally, the culture of outrage and personal attack has grown exponentially on Twitter in the last 5 years. “Dunking” on someone seems to be the primary use of the Quote Tweet feature, and so many of the viral outrage tweets are in the form of the Quote Tweet. 
 
@@ -53,18 +60,7 @@ Add permissions on any tweet that gets Quote Tweeted:
 
 OR, drum roll please… *edit button*! It would solve so much. Then add a versionsioning system to allow the original to be preserved. 
 
-Federation will actually solve this, but without it, these solutions are necessary. 
-
-## Tweet Wrapper => Thread
-Threads are awesome, but there’s a reason services like unroll exist. Reading a thread interrupted by the username, picture, etc. every 280 characters is taxing. Secondly, syndication of a tweet in a thread can lose all context. 
-
-<div style="padding-bottom:0px; margin-bottom:-.5em;"><b>Solution</b></div>
-
-Convert the thread into a single object segmented by 280 character fields, separated either by nothing or slightly darker/lighter backgrounds. The reader sees breaks every 280 characters like normal, but it’s much cleaner and more importantly - will convey a sense of coherence. The world is an incredibly nuanced place. Discourse in 280 characters is not. 
-
-The user can then choose which tweet in the thread serves as a wrapper. And/or when Retweeted, that user can choose which tweet will serve as the wrapper. The wrapper is more or less a headline - when the user clicks on the wrapper tweet, they move to the seamless thread. 
-
-This solution has the additional benefit of synchronizing replies onto a single thread object. 
+Federation will actually solve this, but without it, these solutions are necessary.  
 
 ## Sentiment Analysis, Higher Quality & Lower Speed
 One of the questions raised by the federation idea is, what happens to generally public features like Trends? Twitter as a resource for breaking news can’t be disputed at this point; that functionality must be preserved and strengthened. But the current set up just aint it. 
@@ -86,12 +82,16 @@ Secondly, sentiment analysis should be used to grade tweets that begin to go vir
 
 As a general rule of thumb, the [Lindy effect](https://en.wikipedia.org/wiki/Lindy_effect) should be the governing principle. If you cap Retweets and replies in absolute numbers or by sentiment, and the content is actually good enough, it will continue to rise to the top over time.
 
-## Hide Likes
-Make likes only visible to both the liker and likee. Twitter is optimized for virtue signalling, period. We’ve all read how tribal Twitter is, well this single feature is the forcing function of that tribalism in every last vertical. 
+## Tweet Wrapper => Thread
+Threads are awesome, but there’s a reason services like unroll exist. Reading a thread interrupted by the username, picture, etc. every 280 characters is taxing. Secondly, syndication of a tweet in a thread can lose all context. 
 
-By making likes private, Twitter can still use the signal to optimize the home feed algo. In fact this will provide a much richer signal as the likes become a more honest indication of someone’s opinions, while preserving the personal satisfaction (dopamine) users get from likes. I’d wager this would make engagement go *up*!
+<div style="padding-bottom:0px; margin-bottom:-.5em;"><b>Solution</b></div>
 
-What about the ability to scan someone else’s likes? Maybe this is where a new Quote Tweet comes in. A separate feed created by users that allows them to syndicate tweets without the full endorsement of a Retweet or the aforementioned problems of a like. No footprint on the tweet object itself. 
+Convert the thread into a single object segmented by 280 character fields, separated either by nothing or slightly darker/lighter backgrounds. The reader sees breaks every 280 characters like normal, but it’s much cleaner and more importantly - will convey a sense of coherence. The world is an incredibly nuanced place. Discourse in 280 characters is not. 
+
+The user can then choose which tweet in the thread serves as a wrapper. And/or when Retweeted, that user can choose which tweet will serve as the wrapper. The wrapper is more or less a headline - when the user clicks on the wrapper tweet, they move to the seamless thread. 
+
+This solution has the additional benefit of synchronizing replies onto a single thread object.
 
 ## Clean Up Usernames
 So much of the nonsensical outrage comes from usernames like ‘jack09324189’. The username from the Pelosi example above is ‘nicole47877716’, and the account is following 5 people with one follower. 
