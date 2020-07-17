@@ -7,6 +7,7 @@ rank: 2
 
   {%- if site.posts.size > 0 -%}
     <h2>Notes</h2>
+    <p><i>Some may call these "blog posts"</i></p>
     <ul class="">
       {% for post in site.categories.Notes %}
       <li><a class="" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></li>
