@@ -14,35 +14,20 @@ category: Essays
 ## Intro
 In *Amusing Ourselves to Death* author Neil Postman paraphrases David Riesman, *“In a world of printing, information is the gunpowder of the mind"* Abolitionist Wendell Phillips said *“What gunpowder did for war, the printing press has done for the mind"* And Thomas Jefferson said *"Information is the currency of democracy"* The importance of information in determining individual agency in life and society cannot be understated. 
 
-The most common form of information we get is News. Today’s News Media are not only the purveyors of our day to day information but also shape the conscience, and to a smaller degree the intellect, of our nation. An assumption I’ve developed is that solutions to societal problems are downstream from news information. 
+The most common form of information we get is News. Today’s News Media are not only the purveyors of our day to day information but also shape the conscience, and to a smaller degree the intellect, of our nation. Solutions to societal problems are downstream from news information. 
 
-We now face a problem that undermines the quality of that information, 20th century News Media has monopolized **narrative distribution**. Yet with democratized publishing, there’s been an eruption of first hand experience, accounts, and perspectives from individuals who were unable to publish pre-internet. We will fail to realize the full potential of this power until we democratize distribution too. 
+We now face a problem that undermines the quality of that information, the 20th century News Media has monopolized **narrative distribution**. Yet with democratized publishing, there’s been an eruption of first hand experience, accounts, and perspectives from individuals who were unable to publish pre-internet. We will fail to realize the full potential of this power until we democratize distribution too. 
 
-In the renowned book *Elements of Journalism*, Kovach & Rosenthal argue that journalism’s first obligation is to the truth. I would argue the best way to get there is to increase the supply of information from people in the arena, and their distribution. 
+In the renowned book *Elements of Journalism*, Kovach & Rosenthal argue that journalism’s first obligation is to the truth. I would argue the best way to get there is to increase the supply of information from people in the arena.
 
-In contrast, here’s a recent example of a centralized narrative that I review carefully later on. The Information made a deliberate decision to use the facts at hand to manufacture a narrative about CEO Brian Chesky’s leadership being a large factor in Airbnb’s struggles.. But there’s no sector being hit harder by Covid-19 than travel, common sense tells you that. 
+In contrast, here’s a recent example of a centralized narrative that I review carefully later on. The Information made a deliberate decision to use the facts at hand to manufacture a narrative about CEO Brian Chesky’s leadership being a large factor in Airbnb’s struggles. But there’s no sector being hit harder by Covid-19 than travel, common sense tells you that. 
 
 [![Chesky Narrative](/assets/nd/chesky_narrative2.png)](/assets/nd/chesky_narrative.png)
 <p class="subphoto">Beginning of a narrative</p>
 
 This playbook doesn’t deviate from any Shakespearean tragedy - a powerful central figure meets an inciting incident and the story unfolds. Most importantly, it’s simple enough that other narrative distributors can run with it - achieving the central goal of News Media, narrative distribution. 
 
-Stick with me as I dive deep, using examples such as this and the coverage of Covid-19, to illuminate how narrative distribution works, reinforce the importance of information in our society, give illustrative examples of the historical context, and kick-start a discussion on what lies ahead."
-
-## My Vantage Point
-I’ve always believed in what I see as the mission of news, to inform the public and bring material civic information to light. The American Press Institute defines the purpose of journalism as
-
-<div class="highlight">“to provide citizens with the information they need to make the best possible decisions about their lives, their communities, their societies, and their governments.”</div>
-
-My entire professional career I've been immersed in news media and technology, and I’ve now come to a confounding conclusion: The News Media of today has drifted far away from the aforementioned mission, in fact I believe that it is an impediment to it. Starting a publication to change the News Media would be akin to starting a television channel to change multimedia consumption. What we need for text based content is more like YouTube. 
-
-Twitter is a good first step having democratized publishing but, not dissimilar to YouTube, the centrality of it is still too constricting. And the creative genius that is 280 characters leaves a lot of quality supply untapped. 
-
-In order to truly unlock the above-mentioned first hand knowledge, I believe we need a federated solution - dedicated to democratized distribution, i.e. democratized gatekeeping. 
-
-Only then will we be able to create and maintain a public sphere capable of debating our biggest challenges, and generate the public will to solve them. We need nuance - not narrative. And a lack of nuance is the hallmark of today's News Media. 
-
-Simply put, the more information we have, and the more democratized each part of the value chain, the more nuance, history, and context become available and the more informed the public will be.
+Stick with me as I dive deep, using examples such as this and the coverage of Covid-19, to illuminate how narrative distribution works, reinforce the importance of information in our society, give illustrative examples of the historical context, and kick-start a discussion on what lies ahead.
 
 ## Narrative Distribution
 ### Macro Distribution
@@ -380,7 +365,21 @@ My hope is that you’ve come away with the conclusion that the technology of th
 
 Information is the gunpowder of the mind, why are we limiting our firepower? 
 
-Thank you for reading and Godspeed!
+
+<!--## My Vantage Point
+I’ve always believed in what I see as the mission of news, to inform the public and bring material civic information to light. The American Press Institute defines the purpose of journalism as
+
+<div class="highlight">“to provide citizens with the information they need to make the best possible decisions about their lives, their communities, their societies, and their governments.”</div>
+
+My entire professional career I've been immersed in news media and technology, and I’ve now come to a confounding conclusion: The News Media of today has drifted far away from the aforementioned mission, in fact I believe that it is an impediment to it. Starting a publication to change the News Media would be akin to starting a television channel to change multimedia consumption. What we need for text based content is more like YouTube. 
+
+Twitter is a good first step having democratized publishing but, not dissimilar to YouTube, the centrality of it is still too constricting. And the creative genius that is 280 characters leaves a lot of quality supply untapped. 
+
+In order to truly unlock the above-mentioned first hand knowledge, I believe we need a federated solution - dedicated to democratized distribution, i.e. democratized gatekeeping. 
+
+Only then will we be able to create and maintain a public sphere capable of debating our biggest challenges, and generate the public will to solve them. We need nuance - not narrative. And a lack of nuance is the hallmark of today's News Media. 
+
+Simply put, the more information we have, and the more democratized each part of the value chain, the more nuance, history, and context become available and the more informed the public will be.-->
 
 *Thank you to those who took the time to read and shape many drafts*
 
