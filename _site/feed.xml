@@ -1,4 +1,32 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-08-09T16:48:47-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Jfy’s Website</title><subtitle>Jeff Feiwell's personal website</subtitle><entry><title type="html">This insight on coffee changed my life</title><link href="http://localhost:4000/notes/2020/08/09/coffee-insight.html" rel="alternate" type="text/html" title="This insight on coffee changed my life" /><published>2020-08-09T11:41:39-04:00</published><updated>2020-08-09T11:41:39-04:00</updated><id>http://localhost:4000/notes/2020/08/09/coffee-insight</id><content type="html" xml:base="http://localhost:4000/notes/2020/08/09/coffee-insight.html">&lt;p&gt;Aha! Got you to click. Well, hopefully it’s worth it.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-09-14T14:15:29-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Jfy’s Website</title><subtitle>Jeff Feiwell's personal website</subtitle><entry><title type="html">AMERICAN LION: Andrew Jackson in the White House</title><link href="http://localhost:4000/books/2020/09/14/jackson.html" rel="alternate" type="text/html" title="AMERICAN LION: Andrew Jackson in the White House" /><published>2020-09-14T11:41:39-04:00</published><updated>2020-09-14T11:41:39-04:00</updated><id>http://localhost:4000/books/2020/09/14/jackson</id><content type="html" xml:base="http://localhost:4000/books/2020/09/14/jackson.html">&lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css&quot; /&gt;
+
+&lt;p&gt;&lt;span style=&quot;font-weight:500;font-style:italic;&quot;&gt; Author: Jon Meacham&lt;/span&gt;&lt;/p&gt;
+
+&lt;div style=&quot;margin-top:15px;&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;span style=&quot;font-weight:500;&quot;&gt;tl;dr:&lt;/span&gt;Reading this book during the Trump Presidency is wild. There are so many similarities to how they structured their presidencies, and so many differences.&lt;/p&gt;
+
+&lt;p&gt;In Jackson’s time he was almost as revered in American military lore as Washington. He was the hero of New Orleans. Jackson parlayed this popularity into an electoral strategy, as he was the first President to derive his power from popular sentiment. His confidence and mandate to govern stemmed entirely from the people. So the real similarity is they were both populists. The difference being Jackson was, um, the hero of the War of 1812. And one of the best political theorists of his day.&lt;/p&gt;
+
+&lt;p&gt;The book itself is both great and bad, earning it a 3-star rating. Usually Pulitzer winners don’t miss but about 30% of the book was infuriatingly boring. The author obsesses over the Petticoat Affair, which was a social scandal that divided Washington in his first term. The tl;dr is that his Secretary of War, Eaton, married a woman (Mary) that was, shall we say, easy. The rest of the elite DC social circuit at the time refused to acknowledge her. He lays out why it was important but it was way overboard for high school drama.&lt;/p&gt;
+
+&lt;p&gt;The bank war was the highlight of the book, the author could have expanded on that issue greatly.&lt;/p&gt;
+
+&lt;table&gt;
+	&lt;tr&gt;&lt;b&gt;Stars: &lt;/b&gt;&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;span class=&quot;fa fa-star checked&quot;&gt;&lt;/span&gt;
+		&lt;span class=&quot;fa fa-star checked&quot;&gt;&lt;/span&gt;
+		&lt;span class=&quot;fa fa-star checked&quot;&gt;&lt;/span&gt;
+		&lt;span class=&quot;fa fa-star&quot;&gt;&lt;/span&gt;
+		&lt;span class=&quot;fa fa-star&quot;&gt;&lt;/span&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;Amazon: &lt;a href=&quot;https://www.amazon.com/AMERICAN-LION-Andrew-Jackson-White/dp/0812973461&quot;&gt;AMERICAN LION: Andrew Jackson in the White House&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</content><author><name></name></author><category term="Books" /><summary type="html"></summary></entry><entry><title type="html">Link to Bessemer Venture Partners Investment Memos</title><link href="http://localhost:4000/pdfs/2020/09/12/BVP.html" rel="alternate" type="text/html" title="Link to Bessemer Venture Partners Investment Memos" /><published>2020-09-12T11:41:39-04:00</published><updated>2020-09-12T11:41:39-04:00</updated><id>http://localhost:4000/pdfs/2020/09/12/BVP</id><content type="html" xml:base="http://localhost:4000/pdfs/2020/09/12/BVP.html">&lt;div style=&quot;margin-top:15px;&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Link: &lt;a href=&quot;https://www.bvp.com/memos&quot;&gt;Link to Memos&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;div style=&quot;margin-bottom:30px;&quot;&gt;&lt;/div&gt;</content><author><name></name></author><category term="PDFs" /><category term="Business" /><summary type="html"></summary></entry><entry><title type="html">This insight on coffee changed my life</title><link href="http://localhost:4000/notes/2020/08/09/coffee-insight.html" rel="alternate" type="text/html" title="This insight on coffee changed my life" /><published>2020-08-09T11:41:39-04:00</published><updated>2020-08-09T11:41:39-04:00</updated><id>http://localhost:4000/notes/2020/08/09/coffee-insight</id><content type="html" xml:base="http://localhost:4000/notes/2020/08/09/coffee-insight.html">&lt;p&gt;Aha! Got you to click. Well, hopefully it’s worth it.&lt;/p&gt;
 
 &lt;p&gt;The the old coffee drinking me’s morning used to go something like this. Get up at around 5, slam a cup of coffee, get a workout in, be tired again by 8, then naturally drink another cup. Then, most days, I’d get ridiculously tired in the afternoon, and again after dinner.&lt;/p&gt;
 
@@ -342,42 +370,4 @@ the greatest invention of the present century.&quot;&lt;/div&gt;
 	&lt;/tr&gt;
 &lt;/table&gt;
 
-&lt;p&gt;&lt;strong&gt;Amazon: &lt;a href=&quot;https://www.amazon.com/Power-Broker-Robert-Moses-Fall/dp/0394480767&quot;&gt;The Power Broker: Robert Moses and the Fall of New York&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</content><author><name></name></author><category term="Books" /><summary type="html"></summary></entry><entry><title type="html">So You Want to Be a Producer</title><link href="http://localhost:4000/books/2020/05/23/producerbook.html" rel="alternate" type="text/html" title="So You Want to Be a Producer" /><published>2020-05-23T11:41:39-04:00</published><updated>2020-05-23T11:41:39-04:00</updated><id>http://localhost:4000/books/2020/05/23/producerbook</id><content type="html" xml:base="http://localhost:4000/books/2020/05/23/producerbook.html">&lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css&quot; /&gt;
-
-&lt;p&gt;&lt;span style=&quot;font-weight:500;font-style:italic;&quot;&gt; Author: Lawrence Turman&lt;/span&gt;&lt;/p&gt;
-
-&lt;div style=&quot;margin-top:15px;&quot;&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;span style=&quot;font-weight:500;&quot;&gt;tl;dr:&lt;/span&gt; Short but descriptive account of what the job of movie producer entails.&lt;/p&gt;
-
-&lt;table&gt;
-	&lt;tr&gt;&lt;b&gt;Stars: &lt;/b&gt;&lt;/tr&gt;
-	&lt;tr&gt;
-		&lt;span class=&quot;fa fa-star checked&quot;&gt;&lt;/span&gt;
-		&lt;span class=&quot;fa fa-star checked&quot;&gt;&lt;/span&gt;
-		&lt;span class=&quot;fa fa-star checked&quot;&gt;&lt;/span&gt;
-		&lt;span class=&quot;fa fa-star checked&quot;&gt;&lt;/span&gt;
-		&lt;span class=&quot;fa fa-star&quot;&gt;&lt;/span&gt;
-	&lt;/tr&gt;
-&lt;/table&gt;
-
-&lt;p&gt;&lt;strong&gt;Amazon: &lt;a href=&quot;https://www.amazon.com/gp/product/1400051665/&quot;&gt;So You Want to Be a Producer&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</content><author><name></name></author><category term="Books" /><summary type="html"></summary></entry><entry><title type="html">Investing in Real Estate</title><link href="http://localhost:4000/books/2020/05/23/rebook.html" rel="alternate" type="text/html" title="Investing in Real Estate" /><published>2020-05-23T11:41:39-04:00</published><updated>2020-05-23T11:41:39-04:00</updated><id>http://localhost:4000/books/2020/05/23/rebook</id><content type="html" xml:base="http://localhost:4000/books/2020/05/23/rebook.html">&lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css&quot; /&gt;
-
-&lt;p&gt;&lt;span style=&quot;font-weight:500;font-style:italic;&quot;&gt; Author: Gary W. Eldred&lt;/span&gt;&lt;/p&gt;
-
-&lt;div style=&quot;margin-top:15px;&quot;&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;span style=&quot;font-weight:500;&quot;&gt;tl;dr:&lt;/span&gt; Read if you’re into residential real estate&lt;/p&gt;
-
-&lt;table&gt;
-	&lt;tr&gt;&lt;b&gt;Stars: &lt;/b&gt;&lt;/tr&gt;
-	&lt;tr&gt;
-		&lt;span class=&quot;fa fa-star checked&quot;&gt;&lt;/span&gt;
-		&lt;span class=&quot;fa fa-star checked&quot;&gt;&lt;/span&gt;
-		&lt;span class=&quot;fa fa-star checked&quot;&gt;&lt;/span&gt;
-		&lt;span class=&quot;fa fa-star&quot;&gt;&lt;/span&gt;
-		&lt;span class=&quot;fa fa-star&quot;&gt;&lt;/span&gt;
-	&lt;/tr&gt;
-&lt;/table&gt;
-
-&lt;p&gt;&lt;strong&gt;Amazon: &lt;a href=&quot;https://www.amazon.com/gp/product/1118172973&quot;&gt;Investing in Real Estate&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</content><author><name></name></author><category term="Books" /><summary type="html">Author: Gary W. Eldred</summary></entry></feed>
+&lt;p&gt;&lt;strong&gt;Amazon: &lt;a href=&quot;https://www.amazon.com/Power-Broker-Robert-Moses-Fall/dp/0394480767&quot;&gt;The Power Broker: Robert Moses and the Fall of New York&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</content><author><name></name></author><category term="Books" /><summary type="html"></summary></entry></feed>
