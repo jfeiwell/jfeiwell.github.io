@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "This insight on coffee changed my life"
+title:  "This Insight on Coffee Changed my Life"
 date:   2020-08-09 11:41:39 -0400
 image: /assets/best_coffee_time.png
 category: Notes

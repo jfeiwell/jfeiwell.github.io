@@ -17,7 +17,7 @@ Politics — who we elect, the course of their actions, and the events surroundi
 
 American politics has manifested itself in different incarnations fitting both our circumstances and communications technologies. We even teach American history through this lens. We learn about Paul Revere’s midnight ride — alerting citizens by voice at the speed of horseback. We learn about FDR’s fireside chats, and how TV audiences preferred Kennedy but radio listeners thought Nixon won the 1960 debate. It is an intractable reality that the public reaction and decisions made following Kennedy’s assinsation would have been starkly different in both the party newspaper era and today’s social media climate. 
 
-Would we have invaded the USSR due to unrelenting social media speculation? Would one side string together [perfect timelines and facts](https://twitter.com/wokal_distance/status/1298923653896130560) that the opposing party, not Russia pulled the trigger? How many Retweets would a tweet get with fake evidence that Khrushchev had ordered the hit? 
+Would we have invaded the USSR due to unrelenting social media speculation? Would one side string together [perfect timelines and facts](https://twitter.com/wokal_distance/status/1298923653896130560) that the opposing party, not Russia, pulled the trigger? How many Retweets would a tweet get with fake evidence that Khrushchev had ordered the hit? 
 
 Popular sentiment is only one side of the coin, the demand side. Distribution also impacts who gets elected, the supply side. 
 
@@ -96,7 +96,6 @@ The problem with that structure is that the advocates so often appeal to the peo
 This isn’t to say there aren’t tremendous legislators and governors, nor that any elected member that leverages internet distribution isn’t those things. It is to say that this is becoming the rule, so long as our political activities are distributed via the current schema of the internet.   
 
 ## Conclusion
-
 Internet distribution gives us internet politicians and internet policies. The increasing political polarization and primary phenomenon on both left and right is much less a product of ideology as it is distribution. 
 
 It’s not just the internet, TV isn’t done leaving its mark. There can be no debate that the seriousness and efficacy of Congressional Committees would be elevated exponentially if cameras were removed and replaced with transcripts. 
