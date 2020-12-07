@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Maxims for (Startup) Investmenting"
+title:  "My Maxims for (Startup) Investmenting"
 date:   2020-12-07 11:41:39 -0400
 category: Notes
 ---
