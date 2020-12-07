@@ -1,4 +1,46 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-12-01T20:47:31-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Jfy’s Website</title><subtitle>Jeff Feiwell's personal website</subtitle><entry><title type="html">Setting the Table</title><link href="http://localhost:4000/books/2020/10/21/meyer.html" rel="alternate" type="text/html" title="Setting the Table" /><published>2020-10-21T11:41:39-04:00</published><updated>2020-10-21T11:41:39-04:00</updated><id>http://localhost:4000/books/2020/10/21/meyer</id><content type="html" xml:base="http://localhost:4000/books/2020/10/21/meyer.html">&lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css&quot; /&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-12-07T15:00:59-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Jfy’s Website</title><subtitle>Jeff Feiwell's personal website</subtitle><entry><title type="html">Maxims for (Startup) Investmenting</title><link href="http://localhost:4000/notes/2020/12/07/investing-thesis.html" rel="alternate" type="text/html" title="Maxims for (Startup) Investmenting" /><published>2020-12-07T10:41:39-05:00</published><updated>2020-12-07T10:41:39-05:00</updated><id>http://localhost:4000/notes/2020/12/07/investing-thesis</id><content type="html" xml:base="http://localhost:4000/notes/2020/12/07/investing-thesis.html">&lt;p&gt;All else being equal, the team with the better distribution strategy will win.&lt;/p&gt;
+
+&lt;p&gt;All else being equal, the team that ruthlessly executes (vs the competition) long term will win.&lt;/p&gt;
+
+&lt;p&gt;Financing is a function of the business model. The arguments over raising vs bootstrapping are akin to debating whether to take a car or airplane, it’s entirely dependent on where you’re going and when you need to get there. Opendoor needed a lot of cash to get off the ground, Instagram didn’t.&lt;/p&gt;
+
+&lt;p&gt;The founder(s) has conviction in their vision of the future, and knows which direction leads there.&lt;/p&gt;
+
+&lt;p&gt;The founder(s) can articulate that vision and business in almost offensively simple terms.&lt;/p&gt;
+
+&lt;p&gt;The employees can articulate the &lt;em&gt;same&lt;/em&gt; vision and business in almost offensively simple terms.&lt;/p&gt;
+
+&lt;p&gt;The founder(s) must be magnets for talent. OR in extreme cases, excellent coaches. This is almost always an AND.&lt;/p&gt;
+
+&lt;p&gt;The founder(s) are both ruthless &amp;amp; empathetic. Introspective &amp;amp; delusionally confident. Irreverent &amp;amp; observant.&lt;/p&gt;
+
+&lt;p&gt;There is founder(s) / market fit. Home Depot founders couldn’t build Pinterest &amp;amp; vice versa.&lt;/p&gt;
+
+&lt;p&gt;The exception to founder quals is a product and corresponding model that require beating consumers away with a stick to halt growth. E.g. Slack.&lt;/p&gt;
+
+&lt;p&gt;The team exudes (positive) energy. Employees are pumped to be there. They’ve got the Mo.&lt;/p&gt;
+
+&lt;p&gt;Business equation simplified to Dollars In =&amp;gt; Dollars Out. Roughly translates to unit economics.&lt;/p&gt;
+
+&lt;p&gt;The growth strategy is predicated on an arbitrage the market is missing.&lt;/p&gt;
+
+&lt;p&gt;The company must have an Accumulating Advantage. Flywheel is nice but not required.&lt;/p&gt;
+
+&lt;p&gt;Brand matters.&lt;/p&gt;
+
+&lt;p&gt;The Why Now makes sense.&lt;/p&gt;
+
+&lt;p&gt;Most, if not all, mainstream commentators would scoff at the business and write it off.&lt;/p&gt;
+
+&lt;p&gt;All businesses are created equal. Home Depot makes 6x more money than Netflix. Time horizons be damned.&lt;/p&gt;
+
+&lt;p&gt;Time horizons matter. Value creation matters.&lt;/p&gt;
+
+&lt;p&gt;Final rule…there are exceptions to every rule.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Finally, what’s wrong &amp;amp; what am I missing?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Note: These aren’t *necessarily* in order.&lt;/code&gt;&lt;/p&gt;</content><author><name></name></author><category term="Notes" /><summary type="html">All else being equal, the team with the better distribution strategy will win.</summary></entry><entry><title type="html">Setting the Table</title><link href="http://localhost:4000/books/2020/10/21/meyer.html" rel="alternate" type="text/html" title="Setting the Table" /><published>2020-10-21T11:41:39-04:00</published><updated>2020-10-21T11:41:39-04:00</updated><id>http://localhost:4000/books/2020/10/21/meyer</id><content type="html" xml:base="http://localhost:4000/books/2020/10/21/meyer.html">&lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css&quot; /&gt;
 
 &lt;p&gt;&lt;span style=&quot;font-weight:500;font-style:italic;&quot;&gt; Author: Danny Meyer&lt;/span&gt;&lt;/p&gt;
 
@@ -398,41 +440,4 @@ the greatest invention of the present century.&quot;&lt;/div&gt;
 &lt;p&gt;&lt;i&gt;Author: William Clauson-Thue&lt;/i&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Link: &lt;a href=&quot;/assets/pdfs/abcuniversal.pdf&quot;&gt;The ABC Universal Commercial Electric Telegraphic Code&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;div style=&quot;margin-bottom:30px;&quot;&gt;&lt;/div&gt;</content><author><name></name></author><category term="PDFs" /><category term="Business" /><summary type="html"></summary></entry><entry><title type="html">Grant</title><link href="http://localhost:4000/books/2020/06/28/grant.html" rel="alternate" type="text/html" title="Grant" /><published>2020-06-28T11:41:39-04:00</published><updated>2020-06-28T11:41:39-04:00</updated><id>http://localhost:4000/books/2020/06/28/grant</id><content type="html" xml:base="http://localhost:4000/books/2020/06/28/grant.html">&lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css&quot; /&gt;
-
-&lt;p&gt;&lt;span style=&quot;font-weight:500;font-style:italic;&quot;&gt; Author: Ron Chernow&lt;/span&gt;&lt;/p&gt;
-
-&lt;div style=&quot;margin-top:15px;&quot;&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;span style=&quot;font-weight:500;&quot;&gt;tl;dr:&lt;/span&gt;A 5-star rating, despite plenty of questionable editorial decisions, is the only option for a much needed recanting of one of America’s great men. &lt;/p&gt;
-
-&lt;p&gt;Grant has been lost in history. Militarily, perhaps the middle child of American Generals between Washington and Eisenhower. And his Presidency has been forever overshadowed by Lincoln and his administration’s scandals. Chernow does an excellent job of documenting for readers the context which has been lost - painting us a picture of a man worthy of Mt. Rushmore. &lt;/p&gt;
-
-&lt;p&gt;The ebb and flow of Grant’s fortunes are parallel products of his obstinate character and virtue. A fearless warrior and patriot who began his Midwestern life in southern Ohio, he came into his own during the Mexican-American war, proving to be an apt soldier. Chernow then tells the stories of Grant’s battlefield brilliance during the Civil War in exhilarating and detailed fashion. &lt;/p&gt;
-
-&lt;p&gt;He also details how that legendary virtue led him to frequently misjudge those who lacked it.  &lt;/p&gt;
-
-&lt;p&gt;It’s almost unthinkable that the man who led the Union to victory, held the country together during Reconstruction, and reached mythical status – was scrounging the streets of Galena Illinois for cash.&lt;/p&gt;
-
-&lt;p&gt;The book also does a great job telling lesser known triumphs such as staving off war with Britain and defanging the KKK.&lt;/p&gt;
-
-&lt;p&gt;Ultimately, I think the book should have been a two-volume endeavor. The section on his Presidency seems rushed at times and you can’t help but feel like there’s glossing over of major events. Grant’s silent campaign for the nomination in 1880 also lacks a ton of detail on what the principal characters were doing to advance it.&lt;/p&gt;
-
-&lt;p&gt;The other problem is that the first half of the book spends entirely too much time on Grant’s battle with alcohol (as most Amazon reviews note). But readers who make it past this will be rewarded.&lt;/p&gt;
-
-&lt;p&gt;It’s clear why Grant didn’t follow in Washington’s footsteps and earn Chernow another Pulitzer. But it’s certainly worth the read – hardly any bore to it.&lt;/p&gt;
-
-&lt;p&gt;Grant was the quintessential common man with an uncommon desire to succeed. Even if he didn’t show it.&lt;/p&gt;
-
-&lt;table&gt;
-	&lt;tr&gt;&lt;b&gt;Stars: &lt;/b&gt;&lt;/tr&gt;
-	&lt;tr&gt;
-		&lt;span class=&quot;fa fa-star checked&quot;&gt;&lt;/span&gt;
-		&lt;span class=&quot;fa fa-star checked&quot;&gt;&lt;/span&gt;
-		&lt;span class=&quot;fa fa-star checked&quot;&gt;&lt;/span&gt;
-		&lt;span class=&quot;fa fa-star checked&quot;&gt;&lt;/span&gt;
-		&lt;span class=&quot;fa fa-star checked&quot;&gt;&lt;/span&gt;
-	&lt;/tr&gt;
-&lt;/table&gt;
-
-&lt;p&gt;&lt;strong&gt;Amazon: &lt;a href=&quot;https://www.amazon.com/Grant-Ron-Chernow/dp/159420487X&quot;&gt;Grant&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</content><author><name></name></author><category term="Books" /><summary type="html"></summary></entry></feed>
+&lt;div style=&quot;margin-bottom:30px;&quot;&gt;&lt;/div&gt;</content><author><name></name></author><category term="PDFs" /><category term="Business" /><summary type="html"></summary></entry></feed>
