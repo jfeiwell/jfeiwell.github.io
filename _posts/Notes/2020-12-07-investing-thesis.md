@@ -6,7 +6,7 @@ category: Notes
 ---
 All else being equal, the team with the better distribution strategy will win. 
 
-All else being equal, the team that ruthlessly executes (vs the competition) long term will win. 
+All else being equal, the team that ruthlessly and relentlessly executes (vs the competition) long term will win. 
 
 Financing is a function of the business model. The arguments over raising vs bootstrapping are akin to debating whether to take a car or airplane, it’s entirely dependent on where you’re going and when you need to get there. Opendoor needed a lot of cash to get off the ground, Instagram didn’t.
 
