@@ -20,9 +20,9 @@ The solution to the outage problem lies not in dismantling social media products
 
 For example, de-emphasizing likes and favorites in the structure of a product would be akin to requiring pedestrian firearms are not fully automatic. Society agrees you can still have a gun, but you can’t have an M1 Abrams Tank. Growth and engagement algos can and should be changed too — they’re the materials inside the bombs that drive their disproportionate impact. 
 
-When you think about banning the aforementioned technologies of destruction you probably don’t think about them in terms of their ability to create leverage. We don’t say we’re banning a harmful technology, we say we’re banning a weapon. We say we’re banning a chemical. We say we’re banning a pollutant. 
+When you think about banning the aforementioned technologies of destruction you probably don’t think about them in terms of their ability to create leverage. We don’t say we’re banning a harmful technology, we say we’re banning a weapon. We say we’re banning a chemical. We say we’re banning a pollutant. We are only comfortable regulating technologies that we don’t consider to be technologies at first glance. 
 
-We are only comfortable regulating technologies that we don’t consider to be technologies at first glance. The computing revolution is a miracle whose potential we’ve only begun to realize. But in rewiring our interpretation of technology, that revolution has saddled us with blinders.
+The computing revolution is a miracle whose potential we’ve only begun to realize. But in rewiring our interpretation of technology, that revolution has saddled us with blinders.
 
 Our freedoms lie downstream of our information. Our information lies downstream our distribution. Absent a new technological paradigm, the only way to preserve those freedoms is to tame division downstream outrage. A reconfiguration of client layer technologies - Facebook, Google, and most importantly — Twitter will only be possible when they're no longer given special status inside the broader framing of technologies in society. Unlocking the ability to apply the same standards of societal cost-benefit we do every other technology.
 
