@@ -19,6 +19,7 @@ First, in 1789 the concept of 20th century journalism as we know it today wasn�
 Second, in his post Presidency years, Jefferson wrote a litany of letters sharply critical of the Press. The aforementioned quote confirms how he felt about the Press in principle. How he felt in practice tells a different story.
 
 ###Contextualizing “The Press”
+
 At the time of the founding, our modern interpretation of “reporting” didn’t exist. If those early newspapers did contain what we think of as contemporary news, that “news” was either a months old report from Europe or news of a local town’s doings. In fact, it took a while for the concept to arrive on our shores. 
 
 In late 18th century London, newfound access to the debates of Parliament gave birth to the first known acts of reporting. But, according to Mitchell Stephens’ History of News, it was not until the 1820s that reporting came to America. 1822 was the first year a reporter from outside Washington took up covering affairs in the Capitol. And it wasn’t until almost 20 years later that the telegraph gave us “decontextualized news of the day”, as Neil Postman put it.
@@ -44,6 +45,7 @@ The First Amendment wasn’t designed with 20th century journalism in mind. It d
 Today’s popular interpretation of the First Amendment is actually a product of political discourse, not history. Reporting is certainly covered, but the precedents, context, and sentiment of the time when it was written are byproducts of individual actors and publications. Not card carrying members of a press corps.
 
 ###“The Press” in Practice
+
 To the second point. Jefferson well understood the role of a free press in principle, but he also despised them in practice. He understood what is still true today, humans pay attention to news that is grandiose. His entire quote, often reduced to *[“Nothing can now be believed which is seen in a newspaper"](https://www.loc.gov/resource/mtj1.038_0592_0594/?sp=2&st=text)* is worth reading:
 
 <div class="highlight">
