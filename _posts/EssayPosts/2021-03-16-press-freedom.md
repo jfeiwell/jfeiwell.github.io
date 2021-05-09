@@ -14,7 +14,7 @@ In the face of criticism, big J journalists deploy this Jefferson quote with eas
 
 I couldn’t agree more. But there are two problems with the contemporary usage of that quote. These two problems happen to neatly explain why freedom of the press isn’t about journalism and is about people.  
 
-First, in 1789 the concept of 20th century journalism as we know it today wasn’t in existence. “Newspapers” were not distribution vehicles for contemporary journalism. 
+First, in 1789 the concept of 20th century journalism as we know it today didn't exist. “Newspapers” were not distribution vehicles for contemporary journalism. 
 
 Second, in his post Presidency years, Jefferson wrote a litany of letters sharply critical of the Press. The aforementioned quote confirms how he felt about the Press in principle. How he felt in practice tells a different story.
 
@@ -27,7 +27,7 @@ What did the founders mean by “the press” if not reporting and journalism?
 
 The Continental Congress and Original Colonies were not shy about the role they saw for the press in a new Union of States. In a 1774 address, the Congress stated the freedom of the press promotes “truth, science, morality….[and] whereby oppressive officers are shamed or intimidated into more honourable and just modes of conducting affairs.”
 
-The Pennsylvania Declaration of rights stated “The people have a right to freedom of speech, and of writing, and publishing their sentiments, therefore, the freedom of the press ought not to be restrained” That verbiage implies strong sentiment for absolute freedom, as well as no special treatment to publish.
+The Pennsylvania Declaration of Rights stated “The people have a right to freedom of speech, and of writing, and publishing their sentiments, therefore, the freedom of the press ought not to be restrained”. "The people" and "therefore" imply strong sentiment for absolute freedom, as well as no special treatment to publish.
 
 The two seminal cases regarding “press freedom” are perhaps the most important clue in figuring out what it meant back then. These two cases set the tone for the issue in America.
 
@@ -37,11 +37,11 @@ In 1733 John Peter Zenger, printer and publisher of The New York Weekly Journal 
 
 After losing the case, Alexander Hamilton rose to his defense in an appeal heard by the NY Supreme Court. He argued that truth is a defense for libel, and Justice James Kent essentially agreed. The case was lost but the spirit of Kent’s opinion was codified in NY State’s laws, followed by PA, and eventually the soul of the American people.
 
-In practice, the Alien & Sedition Acts of 1798, and the Sedition Act of 1918, jailed political figures for their writings. Not the modern interpretation of objective journalists, political actors. Does *“freedom of speech, or of the press”* apply to them? These laws jailed them not for the act of merely speaking but for publishing. 
+In practice, the Alien & Sedition Acts of 1798, and the Sedition Act of 1918, jailed political figures for their writings — not the modern interpretation of objective journalists. Does *“freedom of speech, or of the press”* apply to individual actors? These laws jailed them not for the act of merely speaking but for publishing. 
 
 The First Amendment wasn’t designed with 20th century journalism in mind. It didn’t exist! And most of those denied their right to send their words to the press haven't been card carrying journalists as we now understand them.
 
-Today’s popular interpretation of the First Amendment is actually a product of political discourse, not history. Reporting is certainly covered, but the precedents, context, and sentiment of the time when it was written are byproducts of individual actors and publications. Not card carrying members of a press corps.
+Today’s popular interpretation of the First Amendment is a product of political discourse, not history. Reporting is certainly covered, but the precedents, context, and sentiment of the time when 1A was written are byproducts of individual actors and publications — not card carrying members of a press corps.
 
 ### “The Press” in Practice
 To the second point. Jefferson well understood the role of a free press in principle, but he also despised them in practice. He understood what is still true today, humans pay attention to news that is grandiose. His entire quote, often reduced to *[“Nothing can now be believed which is seen in a newspaper"](https://www.loc.gov/resource/mtj1.038_0592_0594/?sp=2&st=text)* is worth reading:
