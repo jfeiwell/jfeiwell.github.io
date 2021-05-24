@@ -23,13 +23,13 @@ Marshall Mcluhan apprised us of the idea that “the medium is the message”. T
 
 
 ## The Layers
-<h4>Human Nature<h4> — How we interpret the world
+#### Human Nature — How we interpret the world
 
 We’re programmed with ideas about the world from our parents. But even before that process starts, we’re literally hard wired to think differently. For example, numerous studies have shown there are material differences in the brains of conservatives and liberals. A 2011 University College London Institute of Cognitive Neuroscience [study showed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3092984/) liberalism was associated with increased gray matter volume in the anterior cingulate cortex. Conservatism was associated with increased right amygdala size. 
 
 We are hardwired to be more receptive to some ideas than others. With this comes the realization that it’s impossible to win everyone over. No idea will reach 100% adoption. 
 
-<h4>History</h4> — The data set for all ideas
+### History — The data set for all ideas
 
 Earth is 4.3 billion years old. Humans have been around for ~300,000 years. We started developing modern cognition ~50,000 years ago. ~12,500 years ago civilizations started to appear. And we’re only ~500 years into modernity. 
 
