@@ -7,15 +7,15 @@ category: Essays
 ---
 Where do ideas come from? What are they made out of? How do we hear about them? And why do some seem better than others?
 
-Merriam-Webster defines an idea as “a formulated thought or opinion”. These thoughts or opinions range from new business ideas, to political opinions, to summer travel plans. 
+*Merriam-Webster* defines an idea as “a formulated thought or opinion”. These thoughts or opinions range from new business ideas, to political opinions, to summer travel plans. 
 
-My idea is that there is an Idea Stack, where ideas are both formulated and distributed. The Idea Stack is composed of 7 layers. Human Nature, History, First Principles, Filtration & Framing, Distribution, Adoption, and Action. Each layer represents their own domain, and each layer influences the other layers. 
+My idea is that there is an *Idea Stack*, where ideas are both formulated and distributed. The Idea Stack is composed of 7 layers. Human Nature, History, First Principles, Filtration & Framing, Distribution, Adoption, and Action. Each layer represents their own domain, and each layer influences the other layers. 
 
-Additionally, the most important layer of the Idea Stack isn’t a layer at all. Language is used as both the building blocks that all ideas are composed of and the soft tissue that connects all layers of the Idea Stack. The building blocks are vocabulary. The soft tissue is semantics. 
+Additionally, the most important layer of the Idea Stack isn’t a layer at all. **Language** is used as both the *building blocks* that all ideas are composed of **and** the *soft tissue* that connects all layers of the Idea Stack. The building blocks are *vocabulary*. The soft tissue is *semantics*. 
 
 Language is the most important piece of the Idea Stack because language is the terrain on which the battle of ideas is fought. If an idea has the high ground in vocabulary and semantics, victory will be certain. 
 
-The Idea Stack is a framework for figuring out what is possible for any given idea. The cardinal rule is to always know where you are in the Idea Stack. Understanding the context of each layer allows you to realize the truth and efficacy of your idea. 
+The Idea Stack is a framework for figuring out *what is possible* for any given idea. The cardinal rule is to always know where you are in the Idea Stack. Understanding the context of each layer allows you to realize the truth and efficacy of your idea. 
 
 ![The Idea Stack](/assets/idea_stack.png)
 
@@ -23,19 +23,20 @@ Marshall Mcluhan apprised us of the idea that “the medium is the message”. T
 
 
 ## The Layers
+
 #### Human Nature — How we interpret the world
 
 We’re programmed with ideas about the world from our parents. But even before that process starts, we’re literally hard wired to think differently. For example, numerous studies have shown there are material differences in the brains of conservatives and liberals. A 2011 University College London Institute of Cognitive Neuroscience [study showed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3092984/) liberalism was associated with increased gray matter volume in the anterior cingulate cortex. Conservatism was associated with increased right amygdala size. 
 
 We are hardwired to be more receptive to some ideas than others. With this comes the realization that it’s impossible to win everyone over. No idea will reach 100% adoption. 
 
-### History — The data set for all ideas
+#### History — The data set for all ideas
 
 Earth is 4.3 billion years old. Humans have been around for ~300,000 years. We started developing modern cognition ~50,000 years ago. ~12,500 years ago civilizations started to appear. And we’re only ~500 years into modernity. 
 
 Relatively speaking, our data set is tiny. But to the human mind, that data set is infinite. No one has the capacity to learn about every historical idea and event. The reality is we’re almost all influenced by a fraction of all historical ideas and events. Most Americans' view of foriegn affairs derives from 9/11, Vietnam, and WW2. 
 
-History is context. When you tell someone about a new business idea, the first question is usually “has this been tried before?”. We naturally use the history we know to validate or invalidate ideas. 
+*History is context*. When you tell someone about a new business idea, the first question is usually “has this been tried before?”. We naturally use the history we know to validate or invalidate ideas. 
 
 History is the first layer of the stack that’s malleable. It shouldn’t be, but it is. A majority of history may be ziplocked but debates arise around framing of historical events. E.g. Was George Washington a traitor to the crown? Had he lost the war, history would have said yes. And people in Britain believed yes for a long time. 
 
@@ -43,9 +44,9 @@ Debates about specific facts arise too. E.g. Most people associate William Shock
 
 History is about big T truth. It’s the currency ideas are issued in, the denominator of ideas. Ideas are denominated in historical context — the airplane of the future has factored in the airplanes of the past. If history were to become subjective, the Idea Stack would break. 
 
-<h4>First Principles</h4> — An individual’s original reasoning 
+#### First Principles — An individual’s original reasoning 
 
-Where did Jefferson get the idea “all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness”? The answer is John Locke. Specifically his Second Treatise of Government. Where did Locke get that idea from? After factoring in the other layers of the Idea Stack, the answer is first principles. 
+Where did Jefferson get the idea “all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness”? The answer is John Locke. Specifically his *Second Treatise of Government*. Where did Locke get that idea from? After factoring in the other layers of the Idea Stack, the answer is first principles. 
 
 Locke was deeply religious, his conviction in Protestant Christianity led him to reason from first principles that we were all born with certain inalienable rights. He used existing ideas such as the divine right of kings and papal infallibility to reason from first principles that these ideas were wrong, and translated his original ideas into his own political philosophy.  
 
@@ -55,21 +56,21 @@ Ideas from first principles reasoning are incredibly powerful because they are o
 
 This is the classic risk profile of anything that produces outsized returns. If your ideas suck, you lose worse than going along with the flow. If you win, you win big. This is what makes a best selling author or successful entrepreneur.
 
-<h4>Filtration & Framing</h4> — Picking ideas and framing them
+#### Filtration & Framing — Picking ideas and framing them
 
 The world is a large place and people are busy, so we have traditionally outsourced gatekeeping to others. We rely on others to tell us which ideas we should focus on. E.g. in an election, which ideas each candidate has that are important, or which ideas our investment advisor has deemed worthy of our attention. 
 
 Because a person and the public can only absorb ideas they are made aware of, this is where scalable power lies. That’s why journalists operate almost exclusively at this layer. In industry parlance this is known as story selection. 
 
-The democratization of publishing has removed the need for gatekeepers, but this layer is tightly coupled with the next layer — distribution. If John tells Suzy about 3 vacation ideas and Suzy begins deciding which of the 3 she prefers, John effectively filtered all of his vacation ideas into those 3 and then distributed them to Suzy. 
+The democratization of publishing has removed the need for gatekeepers, but this layer is tightly coupled with the next layer — distribution. If John tells Suzy about 3 vacation ideas and Suzy begins deciding which of the 3 she prefers, John effectively filtered all of *his* vacation ideas into those 3 and then distributed them to Suzy. 
 
-Apply that principle to ideas with broader implications. The President’s Chief of Staff filters the President’s daily briefing to include ideas about X country over Y country. If the President isn’t even aware of the issues facing Y country, how can he consider taking action? 
+Apply that principle to ideas with broader implications. The President’s Chief of Staff filters the President’s daily briefing to include ideas about X country over Y country. If the President *isn’t even aware* of the issues facing Y country, how can he consider taking action? 
 
 Filtration is powerful because it allows the person doing the filtering to set the boundaries of debate. You can’t go to Mexico if you don’t know Mexico. 
 
 In poker this is known as game selection — picking the right game before you sit down is the most important variable in predicting outcomes. Not the cards, not how you play them — game selection. 
 
-Framing is coupled with filtration because within the action of filtering ideas, we naturally frame them according to our existing ideas. 
+*Framing* is coupled with filtration because within the action of filtering ideas, we naturally frame them according to our existing ideas. 
 
 Framing is about anchoring the debate in favorable parlance. Grabbing the high ground and establishing terms used to describe the ideas at hand in ways that benefit said ideas. Is the Taxi Medallion system a moral crisis or is the 1099 system? If debate is based on a favorable presupposition, there is no debate. 
 
@@ -77,19 +78,22 @@ The canonical example of this is taking two sides of an issue and using language
 
 Game selection.
 
-<h4>Distribution</h4> — The dissemination of ideas
-All else being equal, distribution may be the most important layer in the stack. Here are two examples why: 
-First, imagine a two candidate race for Mayor. The first candidate has the best ideas. They’re time tested against history, she thought them through from first principles, and the framing is tactically flawless. The second candidate has horrible ideas, they’re copied from sources with bad track records. The first candidate is going to win right? Wrong. No one knows the first candidate's ideas because know one knows who she is! The second candidate has far superior distribution. This is why NameID in politics is so effective. 
+#### Distribution — The dissemination of ideas
+
+All else being equal, distribution may be the most important layer in the stack. Here are two examples why:
+
+First, imagine a two candidate race for Mayor. The first candidate has the best ideas. They’re time tested against history, she thought them through from first principles, and the framing is tactically flawless. The second candidate has horrible ideas, they’re copied from sources with bad track records. The first candidate is going to win right? Wrong. No one knows the first candidate's ideas because know one knows who she is! The second candidate has far superior distribution. This is why NameID in politics is so effective.
+
 Second, ever buy a candy bar or snack food that’s just garbage and wonder how it got there in the first place? That’s right, distribution. 
 Distribution is the only way to override the previous layers and is done by way of brute force. Each individual unit of distribution has marginal value. The real value comes at scale. If we hear a brilliant idea once, and the corresponding bad idea 1,000 times, we’re likely to end up adopting the bad idea. Distribution relies on economies of scale.
 
-<h4>Adoption</h4> — Belief in ideas
+#### Adoption — Belief in ideas
 
 John has been reading both sides of a local debate on a new bus line through his city. He’s come to believe that the city should launch the new bus line. He’s adopted this position. 
 
 Suzy is a world class investor who has heard a lot about AR/VR goggles recently. She believes that the noise is just that, and now believes there’s too much capital being allocated to AR/VR goggle companies. When asked, Suzy will tell other investors that she’s bearish on companies in this space. She’s adopted that position. 
 
-<h4>Action</h4> — Taking action on ideas
+#### Action — Taking action on ideas
 
 John lobbies for the new bus line. Suzy deploys capital elsewhere. A bill is passed. An entrepreneur starts a business. A citizen moves to a new city. A product is purchased. A vote is cast. A certain flower is added to a backyard garden over another. 
 
@@ -99,7 +103,8 @@ Action is recursive, as it feeds back into history. Action provides ideas with o
 
 
 ## Language 
-George Orwell included a guide to Newspeak, the official language of the fictional totalitarian state of Oceania, in the appendix of his best seller 1984. The purpose of Newspeak was the subversion of ideas. The language was purposefully ambiguous, designed to limit the ability of citizens to accurately describe the world. It was meant to restrict nuance. 
+
+George Orwell included a guide to *Newspeak*, the official language of the fictional totalitarian state of Oceania, in the appendix of his best seller *1984*. The purpose of *Newspeak* was the subversion of ideas. The language was purposefully ambiguous, designed to limit the ability of citizens to accurately describe the world. It was meant to restrict nuance. 
 
 With limited vocabulary, the citizens of Oceania had limited ability to elucidate their ideas. Prefixes and suffixes such as “un-” or “-ful” were used to limit vocabulary. “Warm” became “uncold”, “quick” became “speedful”. 
 
@@ -107,16 +112,18 @@ Words are the building blocks of ideas. The more words we have at our disposal t
 
 In practice, linguistic advantages present themselves at different layers of the stack. While the broader vocabulary may indicate the universe of possible ideas, one should be cognizant that each layer acts as its own solar system. 
 
-Both within these solar systems and in The Idea Stack at large, semantics hold outsized power in advancing ideas. The meaning of words matters tremendously. History is littered with the corpses of citizens who died at the hands of their government who promised the citizenry their actions were in the name of “safety”. 
+Both within these solar systems and in The Idea Stack at large, *semantics* hold outsized power in advancing ideas. The meaning of words matters tremendously. History is littered with the corpses of citizens who died at the hands of their government who promised the citizenry their actions were in the name of “safety”. 
 
 Another example is in the aforementioned pro- & anti- dichotomy. Everyone wants to be on the side of pro-good-thing and anti-bad-thing. No one wants to be a blueist, therefore being anti-blueist is good. No matter what anti-blueist means. 
 
-Why are bailouts called rescue packages and not bailouts? A rescue is noble, a bailout is immoral. Those opposed to bailouts would be shrewd to not cede the high ground of labeling such as a rescue, victory or defeat is often determined in this jockeying. The list of examples is infinite. 
+Why are bailouts called rescue packages and not bailouts? A rescue is noble, a bailout is immoral. Those opposed to bailouts would be shrewd to not cede the high ground of labeling such as a rescue, victory or defeat is often determined in this jockeying. The list of examples is infinite.
+
 If you think this is unique to ideas in politics, you’d be mistaken. No company wants to say they sell widgets. They say they sell dreams, and the widgets happen to get you there. This isn’t to say these things have a strict negative correlation with truth. Airbnb sells trust, not rentals. That may sound esoteric, but it’s true! 
 
 
 ## Leverage
-If there’s one thing to understand about the Idea Stack itself, it’s that efficacy decreases with each layer down the stack. This is a result of idea leverage, meaning the ability for an idea to have an outsized impact. There is a linear relationship between the leverage of an idea and which layer in the stack it exists in. 
+
+If there’s one thing to understand about the Idea Stack itself, it’s that efficacy decreases with each layer down the stack. This is a result of *idea leverage*, meaning the ability for an idea to have an outsized impact. There is a linear relationship between the leverage of an idea and which layer in the stack it exists in. 
 
 For example — history would tell you Mao created a famine that resulted in at least 15 million deaths. History also tells us that Abe Lincoln is good. 
 
@@ -130,6 +137,7 @@ Action, such as a product purchased, has exponentially less leverage than choosi
 
 
 ## Conclusion
+
 A major source of friction in society stems from people arguing ideas at different layers of the stack. If two parties argue at different layers they might as well speak different languages. 
 
 The Idea Stack applies to all ideas big and small. Whether that’s a new Trillion dollar program or an idea for new ergonomic chairs at the office. 
