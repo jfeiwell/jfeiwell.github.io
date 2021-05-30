@@ -4,7 +4,7 @@ title:  "On Sacrifice"
 subtitle: "Memorial Day 2021"
 date:   2021-05-30 09:25:39 -0400
 image: /assets/sacrifice.png
-category: Notes
+category: Essays
 ---
 “He gallantly gave his life for his country.” — Harry S. Truman
 
