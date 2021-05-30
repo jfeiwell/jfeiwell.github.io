@@ -2,7 +2,7 @@
 layout: post
 title:  "On Sacrifice"
 subtitle: "Memorial Day 2021"
-date:   2021-05-31 09:25:39 -0400
+date:   2021-05-30 09:25:39 -0400
 image: /assets/sacrifice.png
 category: Notes
 ---
