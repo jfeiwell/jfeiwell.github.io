@@ -5,7 +5,7 @@ date:   2020-09-20 11:59:39 -0400
 image: /assets/now-buffering.png
 category: Essays
 ---
-During Jackon’s Bank War in 1834, John Calhoun rose to the Senate floor to lament the fact Andrew Jackson had printed his own remarks to his Cabinet in Jackon’s newspaper the Washington Globe. Calhoun decried this as an exercise of despotic power, saying it “was clearly and manifestly intended as an appeal to the people of the United States, and opens a new and direct organ of communication between the President and them unknown to the Constitution and the laws...There are but two channels...through which the President can communicate with the people — by messages to the Two Houses of Congress...or by Proclamation.” 
+During Jackson’s Bank War in 1834, John Calhoun rose to the Senate floor to lament the fact Andrew Jackson had printed his own remarks to his Cabinet in Jackson’s newspaper the Washington Globe. Calhoun decried this as an exercise of despotic power, saying it “was clearly and manifestly intended as an appeal to the people of the United States, and opens a new and direct organ of communication between the President and them unknown to the Constitution and the laws...There are but two channels...through which the President can communicate with the people — by messages to the Two Houses of Congress...or by Proclamation.” 
 
 Jackson wasn’t the first President to operate a party organ from the White House, but he was the first populist President. He predicated his authority on the will of the people. Jackson successfully appealed directly to the people by both leveraging new technology and breaking conventional norms. Sound familiar? 
 
