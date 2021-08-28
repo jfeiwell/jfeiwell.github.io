@@ -15,7 +15,7 @@ Politics — who we elect, the course of their actions, and the events surroundi
 
 //
 
-American politics has manifested itself in different incarnations fitting both our circumstances and communications technologies. We even teach American history through this lens. We learn about Paul Revere’s midnight ride — alerting citizens by voice at the speed of horseback. We learn about FDR’s fireside chats, and how TV audiences preferred Kennedy but radio listeners thought Nixon won the 1960 debate. It is an intractable reality that the public reaction and decisions made following Kennedy’s assinsation would have been starkly different in both the party newspaper era and today’s social media climate. 
+American politics has manifested itself in different incarnations fitting both our circumstances and communications technologies. We even teach American history through this lens. We learn about Paul Revere’s midnight ride — alerting citizens by voice at the speed of horseback. We learn about FDR’s fireside chats, and how TV audiences preferred Kennedy but radio listeners thought Nixon won the 1960 debate. It is an intractable reality that the public reaction and decisions made following Kennedy’s assassination would have been starkly different in both the party newspaper era and today’s social media climate. 
 
 Would we have invaded the USSR due to unrelenting social media speculation? Would one side string together [perfect timelines and facts](https://twitter.com/wokal_distance/status/1298923653896130560) that the opposing party, not Russia, pulled the trigger? How many Retweets would a tweet get with fake evidence that Khrushchev had ordered the hit? 
 
