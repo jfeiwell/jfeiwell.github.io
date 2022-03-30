@@ -6,7 +6,7 @@ image: /assets/onthinking.png
 category: Essays
 ---
 
-There’s much debate over what constitutes thinking. Despite the nuances, “thinking” has become one of the virtue signaling buzzwords amongst the Very Online. At risk of aligning with this renaissance, I find Cartesian dualism quite appealing and believe the “conscious cognitive process” of thinking can be reduced to Descartes ***“cogito, ergo sum”*** — I think therefore I am.
+There’s much debate over what constitutes thinking. Despite the nuances, “thinking” has become one of the virtue signaling buzzwords amongst the Very Online. At risk of aligning with this renaissance, I find Cartesian dualism quite appealing and believe the “conscious cognitive process” of thinking can be reduced to Descartes' ***“cogito, ergo sum”*** — I think therefore I am.
 
 What demarcates good thinking? I believe there are 3 qualities that make for good thinking. 
 
