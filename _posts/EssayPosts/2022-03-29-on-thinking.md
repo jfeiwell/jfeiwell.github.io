@@ -25,7 +25,7 @@ Thinking for oneself. One can reach all of the right answers but have been drive
 
 The best way to test if one is an independent thinker is one’s ability to [steelman](https://youtu.be/pFaXinURFjE?t=1716) their position. If one cannot articulate the exact inverse of their position as well as their own, they likely do not hold a truly independent thought. 
 
-Another simple heuristic is — when one’s tribe diverts from a position they hold, do they hold the line or toe it? This event is most powerful when there is some bit of information present that is radioactive to the tribe. For believing in heliocentrism, Galileo was convicted of heresy and sentenced. Only a truly independent thinker would tell the world they’re wrong about the cosmos in the face of the Cathlioc Inquisition. It cost him the rest of his life. 
+Another simple heuristic is — when one’s tribe diverts from a position they hold, do they hold the line or toe it? This event is most powerful when there is some bit of information present that is radioactive to the tribe. For believing in heliocentrism, Galileo was convicted of heresy and sentenced. Only a truly independent thinker would tell the world they’re wrong about the cosmos in the face of the Catholic Inquisition. It cost him the rest of his life. 
 
 If one has skin in the game, and conviction in what they believe to be true despite the obvious risks, the thought (independent of its merit) is likely to be independent. 
 
