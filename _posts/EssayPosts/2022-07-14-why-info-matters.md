@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Why Information Matters"
-date:   2022-07-17 18:58:22 -0400
+date:   2022-07-14 19:16:22 -0400
 image: /assets/info_important.png
 category: Essays
 ---
