@@ -11,7 +11,7 @@ What follows are some learnings about the earliest stage of starting a startup. 
 ## Game Selection
 In poker, game selection is the art of choosing the most profitable games to play in. This is determined by the quality of the opposing players as the games in which you are clearly the best player will likely be the most profitable. If you are a 95th percentile player but you are only playing in games against 99th percentile players, you are unlikely to make much money despite being one of the best players in the world. Head to your uncle's home game, and you'll take the shirt off their backs. 
 
-That being said, your uncle's game may have a buy-in of $100. You may clean up but you'll only take home $1,000. If you enter the game with the 99th percentile players where the buy-in is $100k, you ***may*** come home with $1m. There's a lot to consider...do you even know that you're 95th percentile?  
+That being said, your uncle's game may have a buy-in of $100. You may clean up but you'll only take home $1,000. If you enter the game with the 99th percentile players where the buy-in is $100k, you *may* come home with $1m. There's a lot to consider...do you even know that you're 95th percentile?  
 
 Startups are no different. Game selection in startups is critical. But it's more than trying to maximize your expected value (EV) for any game you enter. Startups are binary, you either live long enough to have an HR department, or you die valiantly. 
 
