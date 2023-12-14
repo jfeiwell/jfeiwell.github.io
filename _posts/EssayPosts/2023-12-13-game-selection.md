@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Game Selection in Startups"
-subtitle: "Part I in a series on early stage learning"
+subtitle: "Part I in a series on early stage startup learnings"
 date:   2023-12-13 17:23:22 -0400
 image: /assets/game.png
 category: Essays
