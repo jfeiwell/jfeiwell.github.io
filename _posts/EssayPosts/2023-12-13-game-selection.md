@@ -27,7 +27,7 @@ A marketplace for toys. At first glance, this sounds awesome. It's a huge market
 
 The problem with this idea is twofold — it's not specific enough and incumbents with rock solid distribution aren't going to be dislodged easily. 
 
-Now of course it ***is*** possible to build a huge marketplace for toys. In fact this sounds novel and cool! But without a clear and compelling articulation of who the customer is beyond parents, and why they are going to stop buying toys from Amazon or Toys-R-Us (or used toys from FB Marketplace), then shrewd investors and entrepreneurs know the path ahead is fraught with risk. And investors don't like unfettered risk.
+Now of course it *is* possible to build a huge marketplace for toys. In fact this sounds novel and cool! But without a clear and compelling articulation of who the customer is beyond parents, and why they are going to stop buying toys from Amazon or Toys-R-Us (or used toys from FB Marketplace), then shrewd investors and entrepreneurs know the path ahead is fraught with risk. And investors don't like unfettered risk.
 
 ***Here's a good idea:***
 Synchronization software for weather balloons. You realize that there is effectively no software for weather balloons. The software used to guide and track weather balloons was written in COBOL in the 80s and hasn't been updated since. After speaking with weather balloon operators in Houston, you realize that the inability to remotely synchronize weather balloons is a huge challenge that has lead to numerous miscalculations that obfuscates the data they collect. 
@@ -37,17 +37,17 @@ Furthermore, you find that this problem is the most painful for oil & gas compan
 #### Niche
 Obviously, the second scenario is that of a niche. The one defining characteristic of a good niche is that it's **high fidelity**, which is another way to say exact. e.g. these 3 offshore oil & gas companies based in Houston deploy this software for their weather balloons which causes this specific pain point. We can run our software on their balloons with a corresponding piece of software for the operators to view them synchronous. The blind can now see. 
 
-This is game selection at its best. There's ***no one*** else even at the table. 
+This is game selection at its best. There's *no one* else even at the table. 
 
-But isn't this market ***small***? You and your co-founder are world class engineers. "We don't want to get stuck writing software for weather balloons in the humidity of Houston for the rest of our lives!"
+But isn't this market *small*? You and your co-founder are world class engineers. "We don't want to get stuck writing software for weather balloons in the humidity of Houston for the rest of our lives!"
 
-Did you know that the first location of global hotel giant Marriott wasn't a hotel at all? It was a 9 seat root beer stand. In fact the second location wasn't a hotel either, it was a Hot Shoppe (restaurant). It wasn't until 30 years later, ***after*** the company went public as a chain of Hot Shoppes, that Marriott opened its first hotel. 
+Did you know that the first location of global hotel giant Marriott wasn't a hotel at all? It was a 9 seat root beer stand. In fact the second location wasn't a hotel either, it was a Hot Shoppe (restaurant). It wasn't until 30 years later, *after* the company went public as a chain of Hot Shoppes, that Marriott opened its first hotel. 
 
 This is not new advice but, it's way easier to start small with a product or service a tiny amount of people love than trying to be everything to everyone. Would Facebook have worked without gating sign ups by school? 
 
 There are a lot of people who run weather balloons beyond Houston oil & gas companies — meteorologists, universities, the defense department, etc. You can expand by selling them your software. It's also hard to sell into these places. Once you're in, that's extremely valuable. You can sell them other software, or balloons, or drones, or whatever! You have your foothold, time to become a massive company. 
 
-If you don't take my word for it, take Paul Graham's in his essay ***How to Start a Startup***:
+If you don't take my word for it, take Paul Graham's in his essay *How to Start a Startup*:
 
 <div class="highlight">
 "Another way to say that is, if you try to start the kind of startup that has to be a big consumer brand, the odds against succeeding are steeper. The best odds are in niche markets. Since startups make money by offering people something better than they had before, the best opportunities are where things suck most....
@@ -78,7 +78,7 @@ You probably want your CTO to have experience scaling an engineering team, but i
 I'm not an expert here, but the Pistons found Dennis Rodman at the Portsmouth Invitational Tournament after he played his college ball at Southeastern Oklahoma State University, an NAIA school. Had they been playing the same game as every other team, recruiting from Duke and North Carolina, they would have missed the greatest rebounder in NBA history. 
 
 ### Capital
-This one is simple, play ***your*** game. If you build a great company, investors will flock. Listen to Parker Conrad interviews to fully internalize this. 
+This one is simple, play *your* game. If you build a great company, investors will flock. Listen to Parker Conrad interviews to fully internalize this. 
 
 ## Conclusion
 Game selection for startups is the secret sauce. It's a cheat code. In many cases, it's the only thing that matters. Had DoorDash (née Palo Alto Delivery) started by competing head on with Postmates in SF or LA, opposed to starting with only Palo Alto, they would have burned through every dollar they had. It would have been the classic case of a deep stack bleeding out a short stack at the poker table. 
