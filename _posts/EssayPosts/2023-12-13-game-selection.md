@@ -64,9 +64,9 @@ But Jeff, what if our product is so good, so revolutionary that we can distribut
 
 What we're talking about is the 10x better convention. If you're unfamiliar, the wisdom goes...if one product seeks to replace the incumbent product by doing the same job but better, then it needs to be at least 10x better than the incumbent to force end users to switch. The 10x better convention is true. Prior to AWS, startups had to manually rack and stack servers, or at least provision them. AWS did this job remotely while turning a fixed cost into a variable cost, this was easily a 10x improvement. 
 
-If you build something that's 10x better, it removes the need to think about the finer details like a wedge into a niche. But it's really hard to build something 10x better for a job that's already being done. You'll likely need a lot of money and a lot of human capital. Those are the cards, do you hold them? 
+If you build something that's 10x better, it alleviates *some* of the need to think about the finer details like a wedge into a niche. But it's really hard to build something 10x better for a job that's already being done. You'll likely need a lot of money and a lot of human capital. Let's also not forget that when serving a niche, you still want a 10x product. 
 
-If not, you're playing the wrong game. 
+Those are the cards, do you hold them? If not, you're playing the wrong game. 
 
 ## Talent
 Peter Thiel talks about the need to find undiscovered talent. You and your poor startup cannot afford the people that are talented that have already been discovered. The game selection that matters here is — **where to look**. 
