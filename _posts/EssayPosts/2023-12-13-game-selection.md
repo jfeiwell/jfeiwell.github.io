@@ -8,7 +8,7 @@ category: Essays
 ---
 What follows are some learnings about the earliest stage of starting a startup. Part one: Game Selection
 
-## Game Selection
+# Game Selection
 In poker, game selection is the art of choosing the most profitable games to play in. This is determined by the quality of the opposing players as the games in which you are clearly the best player will likely be the most profitable. If you are a 95th percentile player but you are only playing in games against 99th percentile players, you are unlikely to make much money despite being one of the best players in the world. Head to your uncle's home game, and you'll take the shirt off their backs. 
 
 That being said, your uncle's game may have a buy-in of $100. You may clean up but you'll only take home $1,000. If you enter the game with the 99th percentile players where the buy-in is $100k, you *may* come home with $1m. There's a lot to consider...do you even know that you're 95th percentile?  
@@ -17,7 +17,7 @@ Startups are no different. Game selection in startups is critical. But it's more
 
 The most important games for startups are the markets for customers, talent, and capital. In that order. 
 
-### Market (Customers)
+## Market (Customers)
 Who is buying your shit? Apologies for the profane language, but I want to get my message across —  who is buying your shit and why? 
 
 Let's illustrate why this is so important. Imagine that you're a world class engineer and so is your cofounder. You can build the best designed, most performant software the world has ever seen. Now all you need is an idea. 
@@ -34,7 +34,7 @@ Synchronization software for weather balloons. You realize that there is effecti
 
 Furthermore, you find that this problem is the most painful for oil & gas companies in Houston. Who are willing to pay insane amounts of money to solve this in order to optimize their yields. In fact, they are willing to pay you to do this before you write a single line of code, you don't even need to raise money — if you can write it, they will buy it. Off to the races. 
 
-#### Niche
+### Niche
 Obviously, the second scenario is that of a niche. The one defining characteristic of a good niche is that it's **high fidelity**, which is another way to say exact. e.g. these 3 offshore oil & gas companies based in Houston deploy this software for their weather balloons which causes this specific pain point. We can run our software on their balloons with a corresponding piece of software for the operators to view them synchronous. The blind can now see. 
 
 This is game selection at its best. There's *no one* else even at the table. 
@@ -59,7 +59,7 @@ If you don't take my word for it, take Paul Graham's in his essay *How to Start 
 Lastly, there's one way to reverse engineer this — think in terms of **use cases**. You built your toy marketplace. The use case is to buy your kids their favorite toys. Hmmm...I can already do that, can't I? The use case for software that synchronizes their weather balloons is that it allows balloon operators who are manually trying to do this with terrible results, to do this remotely with software. The use case is clear and valuable to a specific customer. You have derisked your ability to make money. 
 
 
-#### 10x Better
+### 10x Better
 But Jeff, what if our product is so good, so revolutionary that we can distribute to our TAM from day one? It's possible! Slack (basically) did it. Ford did it. It's an extremely lucrative strategy if you have the cards to pull it off. Do you have the cards? 
 
 What we're talking about is the 10x better convention. If you're unfamiliar, the wisdom goes...if one product seeks to replace the incumbent product by doing the same job but better, then it needs to be at least 10x better than the incumbent to force end users to switch. The 10x better convention is true. Prior to AWS, startups had to manually rack and stack servers, or at least provision them. AWS did this job remotely while turning a fixed cost into a variable cost, this was easily a 10x improvement. 
@@ -68,7 +68,7 @@ If you build something that's 10x better, it removes the need to think about the
 
 If not, you're playing the wrong game. 
 
-### Talent
+## Talent
 Peter Thiel talks about the need to find undiscovered talent. You and your poor startup cannot afford the people that are talented that have already been discovered. The game selection that matters here is — **where to look**. 
 
 If you show up to the Stanford job fair, you will be competing against the best companies in the world. Do you know how much Facebook pays entry level engineers? More than you can afford. If you're hiring software engineers, a better place to look may be to comb through the top contributors to a lesser known open source project. Is there someone who didn't go to college that has contributed brilliant code? It's unlikely that person is on the radar of the recruiters at the Stanford job fair. 
