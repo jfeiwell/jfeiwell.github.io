@@ -11,11 +11,9 @@ category: Essays
 ![Cle Skyline](/assets/cle_skyline.jpeg)
 <p class="subphoto">Cleveland Skyline</p>
 
-One year ago The New York Times [documented](https://www.nytimes.com/2018/03/04/technology/silicon-valley-midwest.html) a dozen Bay Area VCs during a three day swing through the Rust Belt. It sparked a conversation about Silicon Valley’s ballooning cost and ever present anxiety that the industry is in a transitional phase. Waiting for the next wave of breakout darlings while its center of gravity moves from the evergreen streets of Palo Alto to the gentrified, steel-reinforced concrete San Francisco. Begging the question, is the Midwest venture’s place of expatriation?
+One year ago, The New York Times [documented](https://www.nytimes.com/2018/03/04/technology/silicon-valley-midwest.html) a dozen Bay Area VCs during a three day swing through the Rust Belt. Recently, 60 minutes [aired](https://www.cbsnews.com/news/venture-capitalist-steve-case-spreading-funding-to-middle-america-with-rise-of-the-rest-60-minutes/) the broadcast follow up to the NYT piece. Following [Rise of the Rest](https://www.revolution.com/entity/rotr/), a venture fund dedicated to funding seed stage companies outside of CA, NY, and MA. I share their passion for the cause. I’ve seen both sides of the coin, born and raised in Cleveland and having lived in SF while working for a venture backed company. Parts of the Rust Belt are having a moment, Pittsburgh is thriving and downtown Cleveland is booming. But most of the Rust Belt like, Youngstown or Toledo, is still is exactly that. So is the Midwest actually Tech’s place of expatriation?
 
-Recently 60 minutes [aired](https://www.cbsnews.com/news/venture-capitalist-steve-case-spreading-funding-to-middle-america-with-rise-of-the-rest-60-minutes/) the broadcast follow up to the NYT piece. Following [Rise of the Rest](https://www.revolution.com/entity/rotr/), a venture fund dedicated to funding seed stage companies outside of CA, NY, and MA. I share their passion for the cause. I’ve seen both sides of the coin, born and raised in Cleveland and eventually lived in SF while working for a venture backed company. Parts of the Rust Belt are having a moment, Pittsburgh is thriving and downtown Cleveland is booming. But most of the Rust Belt like, Youngstown or Toledo, is still is exactly that.
-
-I would love nothing more than the success of venture backed companies in these communities to create new jobs, wealth, and opportunity, but applying a successful model to a different problem isn’t a recipe for success.
+I would love nothing more than the success of venture backed companies in these communities to create new jobs, wealth, and opportunity — but applying a successful model to a different problem isn’t a recipe for success.
 
 ## Why Venture Isn’t the Solution
 
@@ -23,9 +21,10 @@ Venture Capital works for startups, not small businesses — understanding the d
 
 As Paul Graham [points out](http://www.paulgraham.com/growth.html), startups are companies that grow rapidly, and “To grow rapidly, you need to make something you can sell to a big market. That’s the difference between Google and a barbershop. A barbershop doesn’t scale.”. The need to grow fast is dictated by a big market, a business that needs scale to work (like a marketplace), or the need to win your market before others do. VC is a game of finding these possible home runs.
 
-The US grocery market is ~$620bn, a massive total addressable market (TAM). But where Instacart is truly attacking the entire market, a new regional grocery chain is realistically only going to be able to service a few hundred million max in its first decade of business. But that doesn’t mean it isn’t needed. That chain may be able to bring thousands of jobs to that region. These types of companies are worth investing in, just not from a VC fund.
+The US grocery market is ~$620bn, a massive total addressable market (TAM). But where Instacart is truly attacking the entire market, a new regional grocery chain has a realistic local maximum of ~$100mn in its first decade of business. But that doesn’t mean it isn’t needed. That chain may be able to bring thousands of jobs to that region. These types of companies are worth investing in, just not from a VC fund.
 
-Why not? It’s not a smart investment for venture funds and it’s not an optimal source of capital for businesses whose trajectory isn’t aligned with the cost (financially and operationally) associated with venture money.
+Why not? It’s not a smart investment for venture funds and it’s not an optimal source of capital for businesses whose trajectory isn’t aligned with the cost and demands associated with taking venture capital.
+
 Venture funds last ~10 years and typically need to return capital over the last few years of its life. This is done by either distributing cash or stock. In order to have cash or liquid stock to hand over, the portfolio companies must have had an exit, a sale or IPO (It’s technically possible for funds to cash out shares in secondary markets but its’ inefficient). Our regional grocery chain or a new logistics company may win their region over 15 years, but that doesn’t help a venture fund.
 
 On the company side venture is a great idea for those covering high fixed costs out of the gate, that will accumulate massive economies of scale. Where the marginal cost of serving the nth customer is small. And those using needing to [blitzscale](https://hbr.org/2016/04/blitzscaling), as mentioned above.
@@ -40,7 +39,7 @@ The aforementioned examples illustrate the type of company that would make a str
 
 Those whom it would be imprudent to take on debt or are outside the risk profile of a bank. And they are looking to build businesses that will grow regionally (hopefully globally) over time but aren’t aiming to become the next Facebook. In 50 years they may become a Dick’s Sporting Goods or a Cintas, but just like those businesses, it will take more than 10 years.
 
-Let’s get into the mechanics and circle back into why this model aligns incentives for all parties. [Indie.vc](Indie.vc) has done a terrific job of standardizing terms for these deals and I think they nailed it. They are the foremost authority on this nascent type of investing so I’ve summarized.
+Let’s get into the mechanics and circle back into why this model aligns incentives for all parties. [Indie.vc](https://www.indie.vc/) has done a terrific job of standardizing terms for these deals and I think they nailed it. They are the foremost authority on this nascent type of investing so I’ve summarized.
 
 Deal Terms
 The money invested is essentially a convertible note specifically drawn from gross revenue with a specified return. In the case of a financing or liquidity event, the stake is converted to equity.
