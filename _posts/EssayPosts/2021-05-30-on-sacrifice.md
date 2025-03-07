@@ -8,7 +8,7 @@ category: Essays
 ---
 “He gallantly gave his life for his country.” — Harry S. Truman
 
-I think most people believe that in war if you die, you do so by getting shot, it sucks for a few minutes, and then it’s sad. But war is unimaginably more grotesque and depraved than that. The maiming and disfigurement of the human body in ways too graphic to describe is the default of war. On a macro level, the scale at which humans are mutilated is nearly impossible for the civilian mind to grasp. We can never forget our freedoms are inextricably linked to the horrors endured and sacrifices made by our fallen soldiers. 
+I think most people believe that if you die in war, you do so by getting shot. It sucks for a few minutes, and then it’s sad. But war is unimaginably more grotesque and depraved than that. The maiming and disfigurement of the human body in ways too graphic to describe is the default of war. On a macro level, the scale at which humans are mutilated is nearly impossible for the civilian mind to grasp. We can never forget our freedoms are inextricably linked to the horrors endured and sacrifices made by our fallen soldiers. 
 
 Even before facing the grim prospect of death via enemy artillery, our veterans endured mother nature’s fiercest attacks. The freezing conditions at Valley Forge, the Ardennes Forest, and the Chosin Reservoir. The blistering heat of the Wilderness Campaign, Peleliu, and the Anbar Province. The rampant disease that took more American lives than did the enemy in American wars [before WWII](https://pubmed.ncbi.nlm.nih.gov/18192771/).
 
